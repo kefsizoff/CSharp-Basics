@@ -1,0 +1,9 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\bin\Debug\5FormattingNumbers.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\obj\Debug\5FormattingNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\obj\Debug\5FormattingNumbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\bin\Debug\5FormattingNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\bin\Debug\5FormattingNumbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\5FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\5FormattingNumbers\bin\Debug\5FormattingNumbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\5FormattingNumbers\obj\Debug\5FormattingNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\5FormattingNumbers\obj\Debug\5FormattingNumbers.pdb

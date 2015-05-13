@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\bin\Debug\28.04.2014.Disk.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\bin\Debug\28.04.2014.Disk.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\bin\Debug\28.04.2014.Disk.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\obj\Debug\28.04.2014.Disk.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\obj\Debug\28.04.2014.Disk.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\28.04.2014.Disk\28.04.2014.Disk\obj\Debug\28.04.2014.Disk.pdb

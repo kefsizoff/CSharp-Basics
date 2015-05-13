@@ -1,0 +1,12 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

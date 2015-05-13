@@ -1,0 +1,5 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\obj\Debug\DecimalToBinaryNumber.pdb

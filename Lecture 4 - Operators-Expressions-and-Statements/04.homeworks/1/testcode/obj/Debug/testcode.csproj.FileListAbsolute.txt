@@ -1,0 +1,5 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\testcode\bin\Debug\testcode.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\testcode\bin\Debug\testcode.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\testcode\bin\Debug\testcode.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\testcode\obj\Debug\testcode.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\testcode\obj\Debug\testcode.pdb

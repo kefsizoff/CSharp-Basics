@@ -1,0 +1,1 @@
+Vsichki zadachi sa v edin solution,no ne sa poderedni v dadenata prednost,tui kato ne mogat da se sortirat sven po ime.

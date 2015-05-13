@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\bin\Debug\01.Inside the Building.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\bin\Debug\01.Inside the Building.exe
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\bin\Debug\01.Inside the Building.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\obj\Debug\01.InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\obj\Debug\01.Inside the Building.exe
+C:\Users\Atanas\Desktop\Exam Preparation\C# Basics Exam 14 April 2014 Evening\ExamPreparation14April2014Eve\01.Inside the Building\obj\Debug\01.Inside the Building.pdb

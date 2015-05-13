@@ -1,0 +1,12 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe.config
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\bin\Debug\08.PrimeNumCheck.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\08.PrimeNumCheck\obj\Debug\08.PrimeNumCheck.csprojResolveAssemblyReference.cache

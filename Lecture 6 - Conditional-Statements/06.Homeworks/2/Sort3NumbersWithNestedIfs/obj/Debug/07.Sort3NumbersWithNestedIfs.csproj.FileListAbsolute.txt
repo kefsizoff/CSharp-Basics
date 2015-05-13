@@ -1,0 +1,12 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe.config
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.pdb
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\obj\Debug\Sort3NumbersWithNestedIfs.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\bin\Debug\Sort3NumbersWithNestedIfs.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\Sort3NumbersWithNestedIfs\obj\Debug\07.Sort3NumbersWithNestedIfs.csprojResolveAssemblyReference.cache

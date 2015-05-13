@@ -1,0 +1,1 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\DecimalToBinaryNumber\bin\Debug\DecimalToBinaryNumber.exe.config

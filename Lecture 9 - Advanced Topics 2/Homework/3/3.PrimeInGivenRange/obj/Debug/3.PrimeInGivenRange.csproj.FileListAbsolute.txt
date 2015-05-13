@@ -1,0 +1,10 @@
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.exe
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.pdb
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.csprojResolveAssemblyReference.cache
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.exe
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\3.PrimeInGivenRange\bin\Debug\3.PrimeInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\3.PrimeInGivenRange\obj\Debug\3.PrimeInGivenRange.csprojResolveAssemblyReference.cache

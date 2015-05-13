@@ -1,0 +1,8 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\QuadraticEquations\bin\Debug\QuadraticEquations.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\QuadraticEquations\bin\Debug\QuadraticEquations.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\QuadraticEquations\bin\Debug\QuadraticEquations.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\QuadraticEquations\obj\Debug\QuadraticEquations.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\QuadraticEquations\obj\Debug\QuadraticEquations.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\QuadraticEquations\bin\Debug\QuadraticEquations.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\QuadraticEquations\obj\Debug\QuadraticEquations.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\QuadraticEquations\obj\Debug\QuadraticEquations.pdb

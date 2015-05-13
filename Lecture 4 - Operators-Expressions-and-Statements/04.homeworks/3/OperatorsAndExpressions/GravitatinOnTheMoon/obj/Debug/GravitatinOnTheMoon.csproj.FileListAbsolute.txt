@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\GravitatinOnTheMoon\obj\Debug\GravitatinOnTheMoon.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\GravitatinOnTheMoon\obj\Debug\GravitatinOnTheMoon.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\GravitatinOnTheMoon\obj\Debug\GravitatinOnTheMoon.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\GravitatinOnTheMoon\obj\Debug\GravitatinOnTheMoon.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\GravitatinOnTheMoon\bin\Debug\GravitatinOnTheMoon.pdb

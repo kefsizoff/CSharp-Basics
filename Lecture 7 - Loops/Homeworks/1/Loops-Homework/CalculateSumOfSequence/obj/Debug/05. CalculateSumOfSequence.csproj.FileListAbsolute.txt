@@ -1,0 +1,12 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\obj\Debug\05. CalculateSumOfSequence.csprojResolveAssemblyReference.cache
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\obj\Debug\CalculateSumOfSequence.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateSumOfSequence\obj\Debug\CalculateSumOfSequence.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\obj\Debug\CalculateSumOfSequence.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\obj\Debug\CalculateSumOfSequence.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\bin\Debug\CalculateSumOfSequence.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateSumOfSequence\obj\Debug\05. CalculateSumOfSequence.csprojResolveAssemblyReference.cache

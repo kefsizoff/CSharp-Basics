@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\bin\Debug\09.Int-Double-and-String-Play.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\bin\Debug\09.Int-Double-and-String-Play.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\bin\Debug\09.Int-Double-and-String-Play.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\obj\Debug\09.Int-Double-and-String-Play.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\obj\Debug\09.Int-Double-and-String-Play.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\09.Int-Double-and-String-Play\obj\Debug\09.Int-Double-and-String-Play.pdb

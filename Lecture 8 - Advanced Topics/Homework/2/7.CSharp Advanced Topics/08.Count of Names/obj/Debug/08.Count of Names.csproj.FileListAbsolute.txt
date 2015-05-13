@@ -1,0 +1,6 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\08.Count of Names\bin\Debug\08.Count of Names.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\08.Count of Names\bin\Debug\08.Count of Names.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\08.Count of Names\bin\Debug\08.Count of Names.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\08.Count of Names\bin\Debug\08.Count of Names.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\08.Count of Names\obj\Debug\08.Count of Names.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\08.Count of Names\obj\Debug\08.Count of Names.pdb

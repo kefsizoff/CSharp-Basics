@@ -1,0 +1,9 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb

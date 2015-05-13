@@ -1,0 +1,21 @@
+List of IDEs:
+
+1.SharpDevelop is a free and open source IDE. It was designed as a free and lightweight alternative to Microsoft Visual Studio, and contains an equivalent feature for almost every essential Visual Studio Express feature, including features for project management, code editing, application compiling and debugging. SharpDevelop is written entirely in C#
+
+http://en.wikipedia.org/wiki/SharpDevelop
+
+2.NetBeans is an open source IDE for developing primarily with Java, but also with other languages like PHP, C, C++ and HTML5. It is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms.
+
+http://en.wikipedia.org/wiki/NetBeans
+
+3.Eclipse is an IDE written mostly in Java that can be used to develop applications in many programming languages. Released under the terms of the Eclipse Public License, Eclipse SDK is free and open source software.
+
+http://en.wikipedia.org/wiki/Eclipse_%28software%29
+
+4.Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable by installing or coding different plugins.
+
+http://www.codeblocks.org/
+
+5.Xcode is an IDE developed by Apple for developing software for IOS and OSX. Xcode supports C, C++, Objective-C, Objective-C++, Java, AppleScript, Python, Ruby, Rez, and Swift source code with a variety of programming models.
+
+http://en.wikipedia.org/wiki/Xcode

@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\Demos\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\Demos\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\Demos\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\Demos\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\Demos\HelloCSharp\obj\Debug\HelloCSharp.pdb

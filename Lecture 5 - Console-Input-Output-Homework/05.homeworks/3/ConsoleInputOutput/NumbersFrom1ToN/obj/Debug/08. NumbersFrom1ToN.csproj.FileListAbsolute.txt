@@ -1,0 +1,8 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb

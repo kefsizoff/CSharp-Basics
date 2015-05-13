@@ -1,0 +1,12 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache

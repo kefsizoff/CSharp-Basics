@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\09.MatrixOfNmbers\bin\Debug\09.MatrixOfNmbers.exe
+C:\Users\yanana\Documents\homwworks\loops\09.MatrixOfNmbers\bin\Debug\09.MatrixOfNmbers.pdb
+C:\Users\yanana\Documents\homwworks\loops\09.MatrixOfNmbers\obj\Debug\09.MatrixOfNmbers.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\09.MatrixOfNmbers\obj\Debug\09.MatrixOfNmbers.exe
+C:\Users\yanana\Documents\homwworks\loops\09.MatrixOfNmbers\obj\Debug\09.MatrixOfNmbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\09.MatrixOfNmbers\obj\Debug\09.MatrixOfNmbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\09.MatrixOfNmbers\obj\Debug\09.MatrixOfNmbers.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\bin\Debug\MagicString.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\bin\Debug\MagicString.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\bin\Debug\MagicString.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\obj\Debug\Exam 4. MagicString.csprojResolveAssemblyReference.cache
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\obj\Debug\MagicString.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\MagicString\obj\Debug\MagicString.pdb

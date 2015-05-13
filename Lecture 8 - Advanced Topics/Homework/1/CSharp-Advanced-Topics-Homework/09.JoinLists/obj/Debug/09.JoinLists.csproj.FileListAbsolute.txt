@@ -1,0 +1,12 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\bin\Debug\09.JoinLists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\09.JoinLists\obj\Debug\09.JoinLists.csprojResolveAssemblyReference.cache

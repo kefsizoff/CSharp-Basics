@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PointInACircle\obj\Debug\PointInACircle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PointInACircle\bin\Debug\PointInACircle.pdb

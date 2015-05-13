@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\Users\yanana\Documents\homwworks\loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\Users\yanana\Documents\homwworks\loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\yanana\Documents\homwworks\loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

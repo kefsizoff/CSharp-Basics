@@ -1,0 +1,12 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache

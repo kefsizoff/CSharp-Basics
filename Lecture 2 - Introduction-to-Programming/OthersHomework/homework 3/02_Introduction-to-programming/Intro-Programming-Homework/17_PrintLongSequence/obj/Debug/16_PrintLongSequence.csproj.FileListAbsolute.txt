@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\bin\Debug\17_PrintLongSequence.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\obj\Debug\17_PrintLongSequence.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\obj\Debug\17_PrintLongSequence.pdb

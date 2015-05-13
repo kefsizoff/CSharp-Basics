@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\bin\Debug\14.04.2014.Ev.BitFlipper.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\bin\Debug\14.04.2014.Ev.BitFlipper.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\bin\Debug\14.04.2014.Ev.BitFlipper.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\obj\Debug\14.04.2014.Ev.BitFlipper.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\obj\Debug\14.04.2014.Ev.BitFlipper.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\14.04.2014.Ev.BitFlipper\obj\Debug\14.04.2014.Ev.BitFlipper.pdb

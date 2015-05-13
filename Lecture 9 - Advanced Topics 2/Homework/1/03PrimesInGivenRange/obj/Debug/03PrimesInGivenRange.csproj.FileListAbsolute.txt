@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\bin\Debug\03PrimesInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\03PrimesInGivenRange\obj\Debug\03PrimesInGivenRange.csprojResolveAssemblyReference.cache

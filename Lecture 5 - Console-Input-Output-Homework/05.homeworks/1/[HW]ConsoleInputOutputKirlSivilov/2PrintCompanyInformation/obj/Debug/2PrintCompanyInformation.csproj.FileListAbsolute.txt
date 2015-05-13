@@ -1,0 +1,5 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\2PrintCompanyInformation\bin\Debug\2PrintCompanyInformation.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\2PrintCompanyInformation\bin\Debug\2PrintCompanyInformation.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\2PrintCompanyInformation\bin\Debug\2PrintCompanyInformation.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\2PrintCompanyInformation\obj\Debug\2PrintCompanyInformation.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\2PrintCompanyInformation\obj\Debug\2PrintCompanyInformation.pdb

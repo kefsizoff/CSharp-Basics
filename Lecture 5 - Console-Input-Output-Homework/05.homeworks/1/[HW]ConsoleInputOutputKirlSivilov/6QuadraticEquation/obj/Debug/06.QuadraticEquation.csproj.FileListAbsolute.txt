@@ -1,0 +1,10 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\6QuadraticEquation\bin\Debug\6QuadraticEquation.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\6QuadraticEquation\obj\Debug\6QuadraticEquation.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\6QuadraticEquation\obj\Debug\6QuadraticEquation.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\6QuadraticEquation\bin\Debug\6QuadraticEquation.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\6QuadraticEquation\bin\Debug\6QuadraticEquation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\6QuadraticEquation\bin\Debug\6QuadraticEquation.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\6QuadraticEquation\obj\Debug\6QuadraticEquation.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\6QuadraticEquation\obj\Debug\6QuadraticEquation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\6QuadraticEquation\bin\Debug\6QuadraticEquation.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\6QuadraticEquation\bin\Debug\6QuadraticEquation.pdb

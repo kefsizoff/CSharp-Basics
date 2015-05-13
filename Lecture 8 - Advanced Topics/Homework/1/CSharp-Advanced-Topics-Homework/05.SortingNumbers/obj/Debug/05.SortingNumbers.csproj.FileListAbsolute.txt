@@ -1,0 +1,11 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\05.SortingNumbers\obj\Debug\05.SortingNumbers.csprojResolveAssemblyReference.cache

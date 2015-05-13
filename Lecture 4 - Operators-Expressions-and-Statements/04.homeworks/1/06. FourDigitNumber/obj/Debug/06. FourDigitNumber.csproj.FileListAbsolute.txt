@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.pdb

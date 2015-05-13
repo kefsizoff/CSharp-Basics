@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.csprojResolveAssemblyReference.cache

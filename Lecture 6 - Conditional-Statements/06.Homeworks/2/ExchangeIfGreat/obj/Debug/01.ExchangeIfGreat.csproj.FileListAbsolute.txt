@@ -1,0 +1,9 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\bin\Debug\ExchangeIfGreat.exe.config
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\bin\Debug\ExchangeIfGreat.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\bin\Debug\ExchangeIfGreat.pdb
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\obj\Debug\01.ExchangeIfGreat.csprojResolveAssemblyReference.cache
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\obj\Debug\ExchangeIfGreat.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\ExchangeIfGreat\obj\Debug\ExchangeIfGreat.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\ExchangeIfGreat\bin\Debug\ExchangeIfGreat.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\2\ExchangeIfGreat\obj\Debug\ExchangeIfGreat.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\ExchangeIfGreat\obj\Debug\ExchangeIfGreat.pdb

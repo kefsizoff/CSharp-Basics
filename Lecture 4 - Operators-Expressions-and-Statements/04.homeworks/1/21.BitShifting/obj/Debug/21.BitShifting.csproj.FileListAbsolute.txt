@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\bin\Debug\21.BitShifting.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\bin\Debug\21.BitShifting.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\bin\Debug\21.BitShifting.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\obj\Debug\21.BitShifting.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\obj\Debug\21.BitShifting.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\21.BitShifting\obj\Debug\21.BitShifting.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\21.BitShifting\bin\Debug\21.BitShifting.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\21.BitShifting\obj\Debug\21.BitShifting.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\21.BitShifting\obj\Debug\21.BitShifting.pdb

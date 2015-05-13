@@ -1,0 +1,12 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache

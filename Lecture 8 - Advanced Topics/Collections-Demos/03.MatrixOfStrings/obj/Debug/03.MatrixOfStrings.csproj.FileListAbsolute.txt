@@ -1,0 +1,6 @@
+c:\users\bi0game\documents\visual studio 2013\Projects\Collections-Demos\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Collections-Demos\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Collections-Demos\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Collections-Demos\03.MatrixOfStrings\bin\Debug\03.MatrixOfStrings.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Collections-Demos\03.MatrixOfStrings\obj\Debug\03.MatrixOfStrings.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Collections-Demos\03.MatrixOfStrings\obj\Debug\03.MatrixOfStrings.pdb

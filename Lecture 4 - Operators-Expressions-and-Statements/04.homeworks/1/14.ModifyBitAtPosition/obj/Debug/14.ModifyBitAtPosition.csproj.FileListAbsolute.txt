@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\14.ModifyBitAtPosition\bin\Debug\14.ModifyBitAtPosition.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\14.ModifyBitAtPosition\obj\Debug\14.ModifyBitAtPosition.pdb

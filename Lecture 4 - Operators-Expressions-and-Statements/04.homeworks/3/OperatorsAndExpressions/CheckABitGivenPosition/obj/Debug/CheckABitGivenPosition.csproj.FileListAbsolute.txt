@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\CheckABitGivenPosition\obj\Debug\CheckABitGivenPosition.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\CheckABitGivenPosition\obj\Debug\CheckABitGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\CheckABitGivenPosition\obj\Debug\CheckABitGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\CheckABitGivenPosition\obj\Debug\CheckABitGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\CheckABitGivenPosition\bin\Debug\CheckABitGivenPosition.pdb

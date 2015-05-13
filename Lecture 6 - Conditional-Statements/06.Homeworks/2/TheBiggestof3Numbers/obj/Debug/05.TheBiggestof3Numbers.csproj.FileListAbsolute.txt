@@ -1,0 +1,12 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe.config
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.pdb
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\obj\Debug\05.TheBiggestof3Numbers.csprojResolveAssemblyReference.cache
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\obj\Debug\TheBiggestof3Numbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\bin\Debug\TheBiggestof3Numbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestof3Numbers\obj\Debug\05.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache

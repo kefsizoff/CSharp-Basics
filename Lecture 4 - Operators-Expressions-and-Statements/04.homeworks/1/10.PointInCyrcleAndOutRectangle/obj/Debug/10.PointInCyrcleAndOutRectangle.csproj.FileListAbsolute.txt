@@ -1,0 +1,12 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\bin\Debug\10.PointInCyrcleAndOutRectangle.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\10.PointInCyrcleAndOutRectangle\obj\Debug\10.PointInCyrcleAndOutRectangle.csprojResolveAssemblyReference.cache

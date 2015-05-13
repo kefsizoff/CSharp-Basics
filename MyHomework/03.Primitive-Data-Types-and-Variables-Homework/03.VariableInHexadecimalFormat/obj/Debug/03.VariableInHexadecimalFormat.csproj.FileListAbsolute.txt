@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\bin\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\03.VariableInHexadecimalFormat\obj\Debug\03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

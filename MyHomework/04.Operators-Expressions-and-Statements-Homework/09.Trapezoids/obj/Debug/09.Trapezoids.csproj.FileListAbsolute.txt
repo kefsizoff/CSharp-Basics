@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

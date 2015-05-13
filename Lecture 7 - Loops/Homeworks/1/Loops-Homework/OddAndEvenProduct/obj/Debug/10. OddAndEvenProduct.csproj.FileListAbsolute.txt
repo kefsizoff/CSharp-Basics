@@ -1,0 +1,11 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\obj\Debug\OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\bin\Debug\OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\OddAndEvenProduct\obj\Debug\10. OddAndEvenProduct.csprojResolveAssemblyReference.cache

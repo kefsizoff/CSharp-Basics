@@ -1,0 +1,7 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem7Calculate\bin\Debug\Problem7Calculate.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\bin\Debug\Problem7Calculate.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\bin\Debug\Problem7Calculate.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\bin\Debug\Problem7Calculate.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\obj\Debug\Problem7Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\obj\Debug\Problem7Calculate.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem7Calculate\obj\Debug\Problem7Calculate.pdb

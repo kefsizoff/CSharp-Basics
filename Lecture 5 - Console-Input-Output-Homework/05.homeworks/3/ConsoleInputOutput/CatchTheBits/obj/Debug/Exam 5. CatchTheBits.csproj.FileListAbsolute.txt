@@ -1,0 +1,5 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CatchTheBits\bin\Debug\CatchTheBits.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CatchTheBits\obj\Debug\CatchTheBits.pdb

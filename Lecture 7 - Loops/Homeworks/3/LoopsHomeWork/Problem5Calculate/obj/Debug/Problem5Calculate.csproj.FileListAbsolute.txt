@@ -1,0 +1,8 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem5Calculate\bin\Debug\Problem5Calculate.exe.config
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem5Calculate\bin\Debug\Problem5Calculate.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem5Calculate\bin\Debug\Problem5Calculate.pdb
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem5Calculate\obj\Debug\Problem5Calculate.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem5Calculate\obj\Debug\Problem5Calculate.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem5Calculate\bin\Debug\Problem5Calculate.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem5Calculate\obj\Debug\Problem5Calculate.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem5Calculate\obj\Debug\Problem5Calculate.pdb

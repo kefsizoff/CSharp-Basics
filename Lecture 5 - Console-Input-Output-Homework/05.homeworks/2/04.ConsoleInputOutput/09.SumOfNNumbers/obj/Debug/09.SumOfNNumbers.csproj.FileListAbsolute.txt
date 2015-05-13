@@ -1,0 +1,12 @@
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache
+D:\Study\SOFT UNI 2015\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+D:\Study\SOFT UNI 2015\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache

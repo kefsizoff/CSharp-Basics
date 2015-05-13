@@ -1,0 +1,12 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\obj\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\bin\Debug\PlayWithIntDoubleAndString.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache

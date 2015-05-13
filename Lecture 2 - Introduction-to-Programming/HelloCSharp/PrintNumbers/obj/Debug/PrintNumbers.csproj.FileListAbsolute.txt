@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\FourDigitNumber\bin\Debug\FourDigitNumber.pdb

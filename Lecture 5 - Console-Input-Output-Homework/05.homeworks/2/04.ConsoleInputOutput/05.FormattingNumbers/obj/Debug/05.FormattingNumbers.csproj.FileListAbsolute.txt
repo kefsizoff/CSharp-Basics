@@ -1,0 +1,10 @@
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache

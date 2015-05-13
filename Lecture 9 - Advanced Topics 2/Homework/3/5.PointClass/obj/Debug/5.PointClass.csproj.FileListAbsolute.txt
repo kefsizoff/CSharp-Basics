@@ -1,0 +1,10 @@
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\5.PointClass\bin\Debug\5.PointClass.exe
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\5.PointClass\bin\Debug\5.PointClass.pdb
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\5.PointClass\obj\Debug\5.PointClass.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\5.PointClass\obj\Debug\5.PointClass.exe
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\5.PointClass\obj\Debug\5.PointClass.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\5.PointClass\obj\Debug\5.PointClass.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\5.PointClass\obj\Debug\5.PointClass.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\5.PointClass\bin\Debug\5.PointClass.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\5.PointClass\bin\Debug\5.PointClass.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\5.PointClass\obj\Debug\5.PointClass.csprojResolveAssemblyReference.cache

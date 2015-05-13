@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\2\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\FourDigitNumber\bin\Debug\FourDigitNumber.pdb

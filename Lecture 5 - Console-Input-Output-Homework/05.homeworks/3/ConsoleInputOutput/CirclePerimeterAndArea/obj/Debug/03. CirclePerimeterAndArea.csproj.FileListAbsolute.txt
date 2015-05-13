@@ -1,0 +1,10 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb

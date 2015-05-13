@@ -1,0 +1,12 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\bin\Debug\05.RemoveNames.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\05.RemoveNames\obj\Debug\05.RemoveNames.csprojResolveAssemblyReference.cache

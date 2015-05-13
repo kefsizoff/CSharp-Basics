@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HorribleCode\bin\Debug\HorribleCode.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HorribleCode\obj\Debug\HorribleCode.pdb

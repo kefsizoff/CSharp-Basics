@@ -1,0 +1,10 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomizeTheNumbers1ToN\obj\Debug\RandomizeTheNumbers1ToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomizeTheNumbers1ToN\bin\Debug\RandomizeTheNumbers1ToN.pdb

@@ -1,0 +1,10 @@
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\04.NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache

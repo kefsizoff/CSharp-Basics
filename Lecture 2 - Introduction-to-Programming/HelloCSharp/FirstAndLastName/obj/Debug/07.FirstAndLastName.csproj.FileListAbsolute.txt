@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\FirstAndLastName\bin\Debug\FirstAndLastName.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\FirstAndLastName\obj\Debug\FirstAndLastName.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\FirstAndLastName\obj\Debug\FirstAndLastName.pdb

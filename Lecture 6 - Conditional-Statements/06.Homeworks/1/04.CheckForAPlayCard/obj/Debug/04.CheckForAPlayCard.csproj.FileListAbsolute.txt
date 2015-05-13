@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\04.CheckForAPlayCard\bin\Debug\04.CheckForAPlayCard.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\04.CheckForAPlayCard\bin\Debug\04.CheckForAPlayCard.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\04.CheckForAPlayCard\bin\Debug\04.CheckForAPlayCard.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\04.CheckForAPlayCard\obj\Debug\04.CheckForAPlayCard.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\04.CheckForAPlayCard\obj\Debug\04.CheckForAPlayCard.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\04.CheckForAPlayCard\bin\Debug\04.CheckForAPlayCard.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\04.CheckForAPlayCard\obj\Debug\04.CheckForAPlayCard.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\04.CheckForAPlayCard\obj\Debug\04.CheckForAPlayCard.pdb

@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\09.Trapezoids\obj\Debug\09.Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\04.homeworks\1\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

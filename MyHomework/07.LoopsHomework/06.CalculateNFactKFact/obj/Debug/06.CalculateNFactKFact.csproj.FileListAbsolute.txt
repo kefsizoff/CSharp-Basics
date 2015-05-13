@@ -1,0 +1,18 @@
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe.config
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.pdb
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.pdb
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe.config
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.pdb
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.pdb
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe.config
+C:\Users\Atanas\Desktop\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Desktop\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\06.CalculateNFactKFact\bin\Debug\06.CalculateNFactKFact.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\06.CalculateNFactKFact\obj\Debug\06.CalculateNFactKFact.pdb

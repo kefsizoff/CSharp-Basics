@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\07.FactorailCombinations\bin\Debug\07.FactorailCombinations.exe
+C:\Users\yanana\Documents\homwworks\loops\07.FactorailCombinations\bin\Debug\07.FactorailCombinations.pdb
+C:\Users\yanana\Documents\homwworks\loops\07.FactorailCombinations\obj\Debug\07.FactorailCombinations.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\07.FactorailCombinations\obj\Debug\07.FactorailCombinations.exe
+C:\Users\yanana\Documents\homwworks\loops\07.FactorailCombinations\obj\Debug\07.FactorailCombinations.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\07.FactorailCombinations\obj\Debug\07.FactorailCombinations.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\07.FactorailCombinations\obj\Debug\07.FactorailCombinations.pdb

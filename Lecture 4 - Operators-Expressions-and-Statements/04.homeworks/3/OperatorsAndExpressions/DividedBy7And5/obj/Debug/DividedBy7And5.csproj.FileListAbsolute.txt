@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\DividedBy7And5\obj\Debug\DividedBy7And5.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\DividedBy7And5\obj\Debug\DividedBy7And5.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\DividedBy7And5\obj\Debug\DividedBy7And5.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\DividedBy7And5\obj\Debug\DividedBy7And5.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\DividedBy7And5\bin\Debug\DividedBy7And5.pdb

@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

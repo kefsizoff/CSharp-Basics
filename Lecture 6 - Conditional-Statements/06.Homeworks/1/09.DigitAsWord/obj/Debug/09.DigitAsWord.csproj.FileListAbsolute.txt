@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\bin\Debug\09.DigitAsWord.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\bin\Debug\09.DigitAsWord.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\bin\Debug\09.DigitAsWord.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\obj\Debug\09.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\obj\Debug\09.DigitAsWord.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\09.DigitAsWord\obj\Debug\09.DigitAsWord.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\09.DigitAsWord\bin\Debug\09.DigitAsWord.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\09.DigitAsWord\obj\Debug\09.DigitAsWord.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\09.DigitAsWord\obj\Debug\09.DigitAsWord.pdb

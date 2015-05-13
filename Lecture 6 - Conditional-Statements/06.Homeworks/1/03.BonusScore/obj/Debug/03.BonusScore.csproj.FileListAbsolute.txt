@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\03.BonusScore\bin\Debug\03.BonusScore.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\03.BonusScore\bin\Debug\03.BonusScore.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\03.BonusScore\bin\Debug\03.BonusScore.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\03.BonusScore\obj\Debug\03.BonusScore.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\03.BonusScore\obj\Debug\03.BonusScore.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\03.BonusScore\bin\Debug\03.BonusScore.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\03.BonusScore\obj\Debug\03.BonusScore.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\03.BonusScore\obj\Debug\03.BonusScore.pdb

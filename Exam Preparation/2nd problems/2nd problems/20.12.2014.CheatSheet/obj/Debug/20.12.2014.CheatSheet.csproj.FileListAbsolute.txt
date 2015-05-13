@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\bin\Debug\20.12.2014.CheatSheet.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\bin\Debug\20.12.2014.CheatSheet.exe
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\bin\Debug\20.12.2014.CheatSheet.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\obj\Debug\20.12.2014.CheatSheet.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\obj\Debug\20.12.2014.CheatSheet.exe
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\20.12.2014.CheatSheet\obj\Debug\20.12.2014.CheatSheet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\bin\Debug\11.04.2014.Ev.NewHouse.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\bin\Debug\11.04.2014.Ev.NewHouse.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\bin\Debug\11.04.2014.Ev.NewHouse.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\obj\Debug\11.04.2014.Ev.NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\obj\Debug\11.04.2014.Ev.NewHouse.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Ev.NewHouse\11.04.2014.Ev.NewHouse\obj\Debug\11.04.2014.Ev.NewHouse.pdb

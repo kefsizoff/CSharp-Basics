@@ -1,0 +1,12 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\obj\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\bin\Debug\TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\2\TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache

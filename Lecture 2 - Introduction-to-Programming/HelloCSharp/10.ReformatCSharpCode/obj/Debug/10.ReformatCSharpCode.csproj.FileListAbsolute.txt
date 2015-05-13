@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.csprojResolveAssemblyReference.cache

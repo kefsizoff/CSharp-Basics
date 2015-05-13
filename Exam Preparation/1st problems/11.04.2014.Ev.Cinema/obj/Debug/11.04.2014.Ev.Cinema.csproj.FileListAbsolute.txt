@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Ev.Cinema\bin\Debug\11.04.2014.Ev.Cinema.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Ev.Cinema\bin\Debug\11.04.2014.Ev.Cinema.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Ev.Cinema\bin\Debug\11.04.2014.Ev.Cinema.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Ev.Cinema\obj\Debug\11.04.2014.Ev.Cinema.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Ev.Cinema\obj\Debug\11.04.2014.Ev.Cinema.pdb

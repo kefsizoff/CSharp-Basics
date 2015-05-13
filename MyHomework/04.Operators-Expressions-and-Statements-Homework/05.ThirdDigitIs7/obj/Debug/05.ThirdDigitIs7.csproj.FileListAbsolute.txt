@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

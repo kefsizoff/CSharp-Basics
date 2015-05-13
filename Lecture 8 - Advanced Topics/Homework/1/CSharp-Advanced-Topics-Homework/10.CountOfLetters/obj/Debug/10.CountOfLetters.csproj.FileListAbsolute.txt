@@ -1,0 +1,12 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\bin\Debug\10.CountOfLetters.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\10.CountOfLetters\obj\Debug\10.CountOfLetters.csprojResolveAssemblyReference.cache

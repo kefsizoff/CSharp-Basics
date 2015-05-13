@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\bin\Debug\11.04.2014.Mor.WorkHours.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\bin\Debug\11.04.2014.Mor.WorkHours.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\bin\Debug\11.04.2014.Mor.WorkHours.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\obj\Debug\11.04.2014.Mor.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\obj\Debug\11.04.2014.Mor.WorkHours.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\11.04.2014.Mor.WorkHours\obj\Debug\11.04.2014.Mor.WorkHours.pdb

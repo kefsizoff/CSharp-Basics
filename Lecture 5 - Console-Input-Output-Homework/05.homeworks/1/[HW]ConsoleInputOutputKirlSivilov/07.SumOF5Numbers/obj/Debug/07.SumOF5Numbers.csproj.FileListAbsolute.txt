@@ -1,0 +1,9 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\bin\Debug\07.SumOF5Numbers.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\bin\Debug\07.SumOF5Numbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\bin\Debug\07.SumOF5Numbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\obj\Debug\07.SumOF5Numbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\obj\Debug\07.SumOF5Numbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\07.SumOF5Numbers\obj\Debug\07.SumOF5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\07.SumOF5Numbers\bin\Debug\07.SumOF5Numbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\07.SumOF5Numbers\obj\Debug\07.SumOF5Numbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\07.SumOF5Numbers\obj\Debug\07.SumOF5Numbers.pdb

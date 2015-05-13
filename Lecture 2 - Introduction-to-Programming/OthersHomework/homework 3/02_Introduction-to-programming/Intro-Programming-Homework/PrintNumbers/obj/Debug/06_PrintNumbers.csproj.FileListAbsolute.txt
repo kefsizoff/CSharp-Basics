@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

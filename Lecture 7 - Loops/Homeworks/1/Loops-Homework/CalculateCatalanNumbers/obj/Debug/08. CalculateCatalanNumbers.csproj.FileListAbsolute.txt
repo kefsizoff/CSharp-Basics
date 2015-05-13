@@ -1,0 +1,8 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateCatalanNumbers\bin\Debug\CalculateCatalanNumbers.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateCatalanNumbers\bin\Debug\CalculateCatalanNumbers.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateCatalanNumbers\bin\Debug\CalculateCatalanNumbers.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateCatalanNumbers\obj\Debug\CalculateCatalanNumbers.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateCatalanNumbers\obj\Debug\CalculateCatalanNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateCatalanNumbers\bin\Debug\CalculateCatalanNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateCatalanNumbers\obj\Debug\CalculateCatalanNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateCatalanNumbers\obj\Debug\CalculateCatalanNumbers.pdb

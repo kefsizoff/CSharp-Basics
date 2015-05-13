@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st Problems\14.04.2014.Mor.FruitMarket\bin\Debug\14.04.2014.Mor.FruitMarket.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\bin\Debug\14.04.2014.Mor.FruitMarket.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\bin\Debug\14.04.2014.Mor.FruitMarket.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\obj\Debug\14.04.2014.Mor.FruitMarket.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\obj\Debug\14.04.2014.Mor.FruitMarket.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\obj\Debug\14.04.2014.Mor.FruitMarket.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\bin\Debug\14.04.2014.Mor.FruitMarket.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\obj\Debug\14.04.2014.Mor.FruitMarket.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\1st problems\14.04.2014.Mor.FruitMarket\obj\Debug\14.04.2014.Mor.FruitMarket.pdb

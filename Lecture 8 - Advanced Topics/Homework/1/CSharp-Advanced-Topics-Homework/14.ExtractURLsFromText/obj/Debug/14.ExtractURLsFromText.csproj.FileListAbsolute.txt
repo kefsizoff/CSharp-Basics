@@ -1,0 +1,12 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.csprojResolveAssemblyReference.cache
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\bin\Debug\14.ExtractURLsFromText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\14.ExtractURLsFromText\obj\Debug\14.ExtractURLsFromText.csprojResolveAssemblyReference.cache

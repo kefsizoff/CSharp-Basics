@@ -1,0 +1,7 @@
+c:\users\yanana\documents\homwworks\loops\2. NumberNotDivisibleBYThreeAndSEven\bin\Debug\_2.NumberNotDivisibleBYThreeAndSEven.exe
+c:\users\yanana\documents\homwworks\loops\2. NumberNotDivisibleBYThreeAndSEven\bin\Debug\_2.NumberNotDivisibleBYThreeAndSEven.pdb
+c:\users\yanana\documents\homwworks\loops\2. NumberNotDivisibleBYThreeAndSEven\obj\Debug\02. NumberNotDivisibleBYThreeAndSEven.csprojResolveAssemblyReference.cache
+c:\users\yanana\documents\homwworks\loops\2. NumberNotDivisibleBYThreeAndSEven\obj\Debug\_2.NumberNotDivisibleBYThreeAndSEven.exe
+c:\users\yanana\documents\homwworks\loops\2. NumberNotDivisibleBYThreeAndSEven\obj\Debug\_2.NumberNotDivisibleBYThreeAndSEven.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\2. NumberNotDivisibleBYThreeAndSEven\obj\Debug\_2.NumberNotDivisibleBYThreeAndSEven.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\2. NumberNotDivisibleBYThreeAndSEven\obj\Debug\_2.NumberNotDivisibleBYThreeAndSEven.pdb

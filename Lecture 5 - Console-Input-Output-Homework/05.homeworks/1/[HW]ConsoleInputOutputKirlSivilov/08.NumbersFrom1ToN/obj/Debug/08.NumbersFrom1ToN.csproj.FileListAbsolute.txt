@@ -1,0 +1,12 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.csprojResolveAssemblyReference.cache

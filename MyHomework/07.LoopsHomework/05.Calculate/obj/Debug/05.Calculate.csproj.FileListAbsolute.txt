@@ -1,0 +1,15 @@
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.pdb
+C:\Users\Atanas\Desktop\My Homework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\05.Calculate\bin\Debug\05.Calculate.exe.config
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.exe
+C:\Users\Atanas\Google Диск\SoftUni\My Homework\07.LoopsHomework\05.Calculate\obj\Debug\05.Calculate.pdb

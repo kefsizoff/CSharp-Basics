@@ -1,0 +1,12 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

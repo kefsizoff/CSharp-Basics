@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\bin\Debug\25.07.2014.Ev.HouseWithAWindow.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\bin\Debug\25.07.2014.Ev.HouseWithAWindow.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\bin\Debug\25.07.2014.Ev.HouseWithAWindow.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\obj\Debug\25.07.2014.Ev.HouseWithAWindow.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\obj\Debug\25.07.2014.Ev.HouseWithAWindow.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Ev.HouseWithAWindow\25.07.2014.Ev.HouseWithAWindow\obj\Debug\25.07.2014.Ev.HouseWithAWindow.pdb

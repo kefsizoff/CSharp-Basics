@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\bin\Debug\10.04.2014.Mor.BitsInverter.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\bin\Debug\10.04.2014.Mor.BitsInverter.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\bin\Debug\10.04.2014.Mor.BitsInverter.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\obj\Debug\10.04.2014.Mor.BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\obj\Debug\10.04.2014.Mor.BitsInverter.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\10.04.2014.Mor.BitsInverter\obj\Debug\10.04.2014.Mor.BitsInverter.pdb

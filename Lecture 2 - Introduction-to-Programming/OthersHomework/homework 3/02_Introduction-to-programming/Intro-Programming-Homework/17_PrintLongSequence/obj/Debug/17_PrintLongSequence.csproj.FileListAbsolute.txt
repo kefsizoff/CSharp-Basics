@@ -1,0 +1,5 @@
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\bin\Debug\17_PrintLongSequence.exe.config
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\bin\Debug\17_PrintLongSequence.exe
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\bin\Debug\17_PrintLongSequence.pdb
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\obj\Debug\17_PrintLongSequence.exe
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\17_PrintLongSequence\obj\Debug\17_PrintLongSequence.pdb

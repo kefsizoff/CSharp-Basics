@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\bin\Debug\19.TheExplorer.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\bin\Debug\19.TheExplorer.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\obj\Debug\19.TheExplorer.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\19.TheExplorer\obj\Debug\19.TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\04.homeworks\1\19.TheExplorer\bin\Debug\19.TheExplorer.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\19.TheExplorer\obj\Debug\19.TheExplorer.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\19.TheExplorer\obj\Debug\19.TheExplorer.pdb

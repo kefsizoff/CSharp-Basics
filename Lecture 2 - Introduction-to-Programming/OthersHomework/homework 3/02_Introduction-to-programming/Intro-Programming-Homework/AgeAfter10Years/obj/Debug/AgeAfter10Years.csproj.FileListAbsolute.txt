@@ -1,0 +1,5 @@
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

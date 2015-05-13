@@ -1,0 +1,6 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem9MatrixOfNumbers\bin\Debug\Problem9MatrixOfNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem9MatrixOfNumbers\obj\Debug\Problem9MatrixOfNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem9MatrixOfNumbers\obj\Debug\Problem9MatrixOfNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

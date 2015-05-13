@@ -1,0 +1,8 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\PrintDeckOf52Cards\obj\Debug\PrintDeckOf52Cards.pdb

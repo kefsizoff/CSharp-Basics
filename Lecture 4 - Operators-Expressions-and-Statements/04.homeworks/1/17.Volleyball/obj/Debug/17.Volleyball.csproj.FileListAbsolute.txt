@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\bin\Debug\17.Volleyball.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\obj\Debug\17.Volleyball.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\bin\Debug\17.Volleyball.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\bin\Debug\17.Volleyball.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\obj\Debug\17.Volleyball.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\17.Volleyball\obj\Debug\17.Volleyball.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\17.Volleyball\bin\Debug\17.Volleyball.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\17.Volleyball\obj\Debug\17.Volleyball.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\17.Volleyball\obj\Debug\17.Volleyball.pdb

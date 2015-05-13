@@ -1,0 +1,10 @@
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\4.DifferenceBtweenDates\bin\Debug\4.DifferenceBtweenDates.exe
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\4.DifferenceBtweenDates\bin\Debug\4.DifferenceBtweenDates.pdb
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.exe
+C:\Users\yanana\Documents\homwworks\AdvancedTopicsTwo\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\4.DifferenceBtweenDates\bin\Debug\4.DifferenceBtweenDates.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\4.DifferenceBtweenDates\bin\Debug\4.DifferenceBtweenDates.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\4.DifferenceBtweenDates\obj\Debug\4.DifferenceBtweenDates.csprojResolveAssemblyReference.cache

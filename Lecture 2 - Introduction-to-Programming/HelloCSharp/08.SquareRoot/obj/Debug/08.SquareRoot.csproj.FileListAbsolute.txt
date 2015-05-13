@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\bin\Debug\22.08.2014.Car.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\bin\Debug\22.08.2014.Car.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\bin\Debug\22.08.2014.Car.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\obj\Debug\22.08.2014.Car.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\obj\Debug\22.08.2014.Car.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\22.08.2014.Car\obj\Debug\22.08.2014.Car.pdb

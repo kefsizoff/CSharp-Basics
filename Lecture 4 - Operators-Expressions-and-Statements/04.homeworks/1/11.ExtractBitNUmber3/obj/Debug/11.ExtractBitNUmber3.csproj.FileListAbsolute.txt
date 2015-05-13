@@ -1,0 +1,8 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\11.ExtractBitNUmber3\bin\Debug\11.ExtractBitNUmber3.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\11.ExtractBitNUmber3\bin\Debug\11.ExtractBitNUmber3.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\11.ExtractBitNUmber3\bin\Debug\11.ExtractBitNUmber3.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\11.ExtractBitNUmber3\obj\Debug\11.ExtractBitNUmber3.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\11.ExtractBitNUmber3\obj\Debug\11.ExtractBitNUmber3.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\11.ExtractBitNUmber3\bin\Debug\11.ExtractBitNUmber3.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\11.ExtractBitNUmber3\obj\Debug\11.ExtractBitNUmber3.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\11.ExtractBitNUmber3\obj\Debug\11.ExtractBitNUmber3.pdb

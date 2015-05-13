@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\10.PlayWithIntDoubleAndString\bin\Debug\10.PlayWithIntDoubleAndString.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\10.PlayWithIntDoubleAndString\bin\Debug\10.PlayWithIntDoubleAndString.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\10.PlayWithIntDoubleAndString\bin\Debug\10.PlayWithIntDoubleAndString.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\10.PlayWithIntDoubleAndString\obj\Debug\10.PlayWithIntDoubleAndString.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\10.PlayWithIntDoubleAndString\obj\Debug\10.PlayWithIntDoubleAndString.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\10.PlayWithIntDoubleAndString\bin\Debug\10.PlayWithIntDoubleAndString.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\10.PlayWithIntDoubleAndString\obj\Debug\10.PlayWithIntDoubleAndString.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\10.PlayWithIntDoubleAndString\obj\Debug\10.PlayWithIntDoubleAndString.pdb

@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb

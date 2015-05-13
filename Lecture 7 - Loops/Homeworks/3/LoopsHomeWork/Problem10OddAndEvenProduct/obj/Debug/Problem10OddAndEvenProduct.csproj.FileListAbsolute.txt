@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe.config
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.pdb
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem10OddAndEvenProduct\obj\Debug\Problem10OddAndEvenProduct.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\Problem10OddAndEvenProduct\bin\Debug\Problem10OddAndEvenProduct.pdb

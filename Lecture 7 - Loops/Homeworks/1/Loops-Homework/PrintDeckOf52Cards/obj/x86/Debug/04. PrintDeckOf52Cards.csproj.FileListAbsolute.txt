@@ -1,0 +1,9 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\PrintDeckOf52Cards\obj\x86\Debug\PrintDeckOf52Cards.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\PrintDeckOf52Cards\obj\x86\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\PrintDeckOf52Cards\obj\x86\Debug\PrintDeckOf52Cards.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\PrintDeckOf52Cards\obj\x86\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\PrintDeckOf52Cards\bin\Debug\PrintDeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\PrintDeckOf52Cards\obj\x86\Debug\04. PrintDeckOf52Cards.csprojResolveAssemblyReference.cache

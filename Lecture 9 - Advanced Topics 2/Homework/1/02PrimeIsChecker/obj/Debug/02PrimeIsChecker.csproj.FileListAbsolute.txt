@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\02PrimeIsChecker\obj\Debug\02PrimeIsChecker.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp Advanced Topics 2\02PrimeIsChecker\obj\Debug\02PrimeIsChecker.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\02PrimeIsChecker\obj\Debug\02PrimeIsChecker.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\02PrimeIsChecker\obj\Debug\02PrimeIsChecker.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\1\02PrimeIsChecker\bin\Debug\02PrimeIsChecker.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.pdb

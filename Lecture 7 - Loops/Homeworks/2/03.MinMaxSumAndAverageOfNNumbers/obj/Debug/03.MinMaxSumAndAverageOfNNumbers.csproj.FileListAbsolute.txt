@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\yanana\Documents\homwworks\loops\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\yanana\Documents\homwworks\loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\yanana\Documents\homwworks\loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\yanana\Documents\homwworks\loops\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\03.MinMaxSumAndAverageOfNNumbers\obj\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

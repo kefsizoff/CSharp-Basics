@@ -1,0 +1,12 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\bin\Debug\09.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\09.AverageLoadTimeCalculator\obj\Debug\09.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache

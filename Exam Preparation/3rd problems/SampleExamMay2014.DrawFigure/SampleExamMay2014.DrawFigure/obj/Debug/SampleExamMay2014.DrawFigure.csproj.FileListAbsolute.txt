@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\SampleExamMay2014.DrawFigure\SampleExamMay2014.DrawFigure\bin\Debug\SampleExamMay2014.DrawFigure.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\SampleExamMay2014.DrawFigure\SampleExamMay2014.DrawFigure\bin\Debug\SampleExamMay2014.DrawFigure.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\SampleExamMay2014.DrawFigure\SampleExamMay2014.DrawFigure\bin\Debug\SampleExamMay2014.DrawFigure.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\SampleExamMay2014.DrawFigure\SampleExamMay2014.DrawFigure\obj\Debug\SampleExamMay2014.DrawFigure.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\SampleExamMay2014.DrawFigure\SampleExamMay2014.DrawFigure\obj\Debug\SampleExamMay2014.DrawFigure.pdb

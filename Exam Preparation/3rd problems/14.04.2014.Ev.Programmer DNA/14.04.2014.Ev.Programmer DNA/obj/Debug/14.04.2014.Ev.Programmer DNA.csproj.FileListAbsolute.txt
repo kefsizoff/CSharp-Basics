@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\bin\Debug\14.04.2014.Ev.Programmer DNA.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\bin\Debug\14.04.2014.Ev.Programmer DNA.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\bin\Debug\14.04.2014.Ev.Programmer DNA.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\obj\Debug\14.04.2014.Ev.Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\obj\Debug\14.04.2014.Ev.Programmer DNA.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\14.04.2014.Ev.Programmer DNA\obj\Debug\14.04.2014.Ev.Programmer DNA.pdb

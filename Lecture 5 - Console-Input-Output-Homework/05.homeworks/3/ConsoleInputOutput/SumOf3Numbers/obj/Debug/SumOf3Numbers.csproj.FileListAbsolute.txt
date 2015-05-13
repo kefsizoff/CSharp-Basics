@@ -1,0 +1,6 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\bin\Debug\SumOf3Numbers.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.csprojResolveAssemblyReference.cache
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf3Numbers\obj\Debug\SumOf3Numbers.pdb

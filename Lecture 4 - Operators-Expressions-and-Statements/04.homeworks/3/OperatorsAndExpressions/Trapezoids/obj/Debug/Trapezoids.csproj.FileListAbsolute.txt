@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Trapezoids\obj\Debug\Trapezoids.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Trapezoids\bin\Debug\Trapezoids.pdb

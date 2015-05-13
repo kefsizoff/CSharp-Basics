@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\obj\Debug\04. Rectangles.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\04. Rectangles\obj\Debug\_04.Rectangles.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\04. Rectangles\bin\Debug\_04.Rectangles.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\04. Rectangles\obj\Debug\_04.Rectangles.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\04. Rectangles\obj\Debug\_04.Rectangles.pdb

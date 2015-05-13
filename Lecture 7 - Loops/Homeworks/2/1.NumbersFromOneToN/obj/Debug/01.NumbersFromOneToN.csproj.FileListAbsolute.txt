@@ -1,0 +1,6 @@
+c:\users\yanana\documents\homwworks\loops\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.exe
+c:\users\yanana\documents\homwworks\loops\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.pdb
+c:\users\yanana\documents\homwworks\loops\1.NumbersFromOneToN\bin\Debug\1.NumbersFromOneToN.exe
+c:\users\yanana\documents\homwworks\loops\1.NumbersFromOneToN\bin\Debug\1.NumbersFromOneToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\1.NumbersFromOneToN\obj\Debug\1.NumbersFromOneToN.pdb

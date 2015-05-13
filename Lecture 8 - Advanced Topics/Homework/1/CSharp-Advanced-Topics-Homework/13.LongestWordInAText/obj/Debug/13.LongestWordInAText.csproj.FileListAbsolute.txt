@@ -1,0 +1,12 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.csprojResolveAssemblyReference.cache
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\bin\Debug\13.LongestWordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\13.LongestWordInAText\obj\Debug\13.LongestWordInAText.csprojResolveAssemblyReference.cache

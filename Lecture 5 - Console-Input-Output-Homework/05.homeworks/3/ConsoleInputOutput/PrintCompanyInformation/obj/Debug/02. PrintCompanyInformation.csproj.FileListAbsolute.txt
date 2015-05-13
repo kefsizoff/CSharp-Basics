@@ -1,0 +1,10 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\PrintCompanyInformation\obj\Debug\PrintCompanyInformation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\PrintCompanyInformation\bin\Debug\PrintCompanyInformation.pdb

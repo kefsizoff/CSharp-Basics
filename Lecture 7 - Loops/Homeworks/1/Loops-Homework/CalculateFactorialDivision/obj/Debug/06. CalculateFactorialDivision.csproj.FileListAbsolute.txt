@@ -1,0 +1,9 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\bin\Debug\CalculateFactorialDivision.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\bin\Debug\CalculateFactorialDivision.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\bin\Debug\CalculateFactorialDivision.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\obj\Debug\06. CalculateFactorialDivision.csprojResolveAssemblyReference.cache
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\obj\Debug\CalculateFactorialDivision.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialDivision\obj\Debug\CalculateFactorialDivision.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialDivision\bin\Debug\CalculateFactorialDivision.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialDivision\obj\Debug\CalculateFactorialDivision.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialDivision\obj\Debug\CalculateFactorialDivision.pdb

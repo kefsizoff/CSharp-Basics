@@ -1,0 +1,1 @@
+.NET Framework is software framework for building Windows applications. .NET applications run on so-called 'Common Language Runtime' (CLR), which is an application virtual engine. .NET framework functionality can be utilized by many programming languages and C# is the most popular of them. Some of the others are F#, Visual Basic .NET, C++ etc.

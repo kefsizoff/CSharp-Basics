@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\bin\Debug\ChessQueens.exe
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\bin\Debug\ChessQueens.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\obj\Debug\ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\ChessQueens\obj\Debug\ChessQueens.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\ChessQueens\obj\Debug\ChessQueens.pdb

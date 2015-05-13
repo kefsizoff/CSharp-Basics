@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb

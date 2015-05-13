@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

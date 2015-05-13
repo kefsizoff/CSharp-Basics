@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\bin\Debug\06.TheBiggestOf3Numbers.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\bin\Debug\06.TheBiggestOf3Numbers.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\bin\Debug\06.TheBiggestOf3Numbers.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\obj\Debug\06.TheBiggestOf3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\obj\Debug\06.TheBiggestOf3Numbers.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\06.TheBiggestOf3Numbers\obj\Debug\06.TheBiggestOf3Numbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\06.TheBiggestOf3Numbers\bin\Debug\06.TheBiggestOf3Numbers.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\06.TheBiggestOf3Numbers\obj\Debug\06.TheBiggestOf3Numbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\06.TheBiggestOf3Numbers\obj\Debug\06.TheBiggestOf3Numbers.pdb

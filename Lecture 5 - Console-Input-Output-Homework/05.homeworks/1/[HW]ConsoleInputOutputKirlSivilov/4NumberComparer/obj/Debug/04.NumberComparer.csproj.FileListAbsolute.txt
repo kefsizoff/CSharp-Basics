@@ -1,0 +1,12 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\bin\Debug\4NumberComparer.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\obj\Debug\4NumberComparer.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\obj\Debug\4NumberComparer.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\bin\Debug\4NumberComparer.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\4NumberComparer\bin\Debug\4NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\bin\Debug\4NumberComparer.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\obj\Debug\4NumberComparer.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\obj\Debug\4NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\bin\Debug\4NumberComparer.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\bin\Debug\4NumberComparer.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\4NumberComparer\obj\Debug\04.NumberComparer.csprojResolveAssemblyReference.cache

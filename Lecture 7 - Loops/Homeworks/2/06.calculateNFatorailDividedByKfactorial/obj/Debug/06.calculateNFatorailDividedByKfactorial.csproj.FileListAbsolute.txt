@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\06.calculateNFatorailDividedByKfactorial\bin\Debug\06.calculateNFatorailDividedByKfactorial.exe
+C:\Users\yanana\Documents\homwworks\loops\06.calculateNFatorailDividedByKfactorial\bin\Debug\06.calculateNFatorailDividedByKfactorial.pdb
+C:\Users\yanana\Documents\homwworks\loops\06.calculateNFatorailDividedByKfactorial\obj\Debug\06.calculateNFatorailDividedByKfactorial.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\06.calculateNFatorailDividedByKfactorial\obj\Debug\06.calculateNFatorailDividedByKfactorial.exe
+C:\Users\yanana\Documents\homwworks\loops\06.calculateNFatorailDividedByKfactorial\obj\Debug\06.calculateNFatorailDividedByKfactorial.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\06.calculateNFatorailDividedByKfactorial\obj\Debug\06.calculateNFatorailDividedByKfactorial.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\06.calculateNFatorailDividedByKfactorial\obj\Debug\06.calculateNFatorailDividedByKfactorial.pdb

@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\08.Sort3NumbersWithNestedIfs\bin\Debug\08.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\08.Sort3NumbersWithNestedIfs\bin\Debug\08.Sort3NumbersWithNestedIfs.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\08.Sort3NumbersWithNestedIfs\bin\Debug\08.Sort3NumbersWithNestedIfs.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\08.Sort3NumbersWithNestedIfs\obj\Debug\08.Sort3NumbersWithNestedIfs.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\08.Sort3NumbersWithNestedIfs\obj\Debug\08.Sort3NumbersWithNestedIfs.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\08.Sort3NumbersWithNestedIfs\bin\Debug\08.Sort3NumbersWithNestedIfs.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\08.Sort3NumbersWithNestedIfs\obj\Debug\08.Sort3NumbersWithNestedIfs.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\08.Sort3NumbersWithNestedIfs\obj\Debug\08.Sort3NumbersWithNestedIfs.pdb

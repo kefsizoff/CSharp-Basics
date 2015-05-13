@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\06.Homeworks\3\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\3\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\06.The-Biggest-of-Five-Numbers\bin\Debug\06.The-Biggest-of-Five-Numbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\3\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\06.The-Biggest-of-Five-Numbers\obj\Debug\06.The-Biggest-of-Five-Numbers.pdb

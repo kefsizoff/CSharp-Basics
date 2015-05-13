@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\bin\Debug\BitBuilder.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\bin\Debug\BitBuilder.exe
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\bin\Debug\BitBuilder.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\obj\Debug\BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\obj\Debug\BitBuilder.exe
+C:\Users\Atanas\Desktop\Exam Preparation\5th problems(Bits)\BitBuilder\obj\Debug\BitBuilder.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\BitBuilder\bin\Debug\BitBuilder.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\BitBuilder\obj\Debug\BitBuilder.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\5th problems(Bits)\BitBuilder\obj\Debug\BitBuilder.pdb

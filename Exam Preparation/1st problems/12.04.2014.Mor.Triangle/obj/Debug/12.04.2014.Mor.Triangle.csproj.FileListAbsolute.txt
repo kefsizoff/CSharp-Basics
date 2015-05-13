@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\bin\Debug\12.04.2014.Mor.Triangle.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\bin\Debug\12.04.2014.Mor.Triangle.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\bin\Debug\12.04.2014.Mor.Triangle.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\obj\Debug\12.04.2014.Mor.Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\obj\Debug\12.04.2014.Mor.Triangle.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Mor.Triangle\obj\Debug\12.04.2014.Mor.Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\bin\Debug\20.12.2014.PiggyBank.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\bin\Debug\20.12.2014.PiggyBank.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\bin\Debug\20.12.2014.PiggyBank.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\obj\Debug\20.12.2014.PiggyBank.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\obj\Debug\20.12.2014.PiggyBank.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\20.12.2014.PiggyBank\obj\Debug\20.12.2014.PiggyBank.pdb

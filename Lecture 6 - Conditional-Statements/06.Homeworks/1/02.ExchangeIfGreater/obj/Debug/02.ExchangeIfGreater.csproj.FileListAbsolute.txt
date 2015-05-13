@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\bin\Debug\02.ExchangeIfGreater.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\bin\Debug\02.ExchangeIfGreater.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\bin\Debug\02.ExchangeIfGreater.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\obj\Debug\02.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\obj\Debug\02.ExchangeIfGreater.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\02.ExchangeIfGreater\obj\Debug\02.ExchangeIfGreater.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\02.ExchangeIfGreater\bin\Debug\02.ExchangeIfGreater.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\02.ExchangeIfGreater\obj\Debug\02.ExchangeIfGreater.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\02.ExchangeIfGreater\obj\Debug\02.ExchangeIfGreater.pdb

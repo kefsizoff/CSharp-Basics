@@ -1,0 +1,12 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.LongestWordInAText.csprojResolveAssemblyReference.cache
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.Longest WordInAText.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.Longest WordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.Longest WordInAText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.Longest WordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\bin\Debug\10.Longest WordInAText.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\10.Longest WordInAText\obj\Debug\10.LongestWordInAText.csprojResolveAssemblyReference.cache

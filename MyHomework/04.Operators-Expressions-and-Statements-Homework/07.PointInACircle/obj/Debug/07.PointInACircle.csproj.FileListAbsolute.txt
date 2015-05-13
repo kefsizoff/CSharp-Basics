@@ -1,0 +1,11 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+C:\Users\Atanas\Desktop\MyHomework\04.Operators-Expressions-and-Statements-Homework\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\bin\Debug\07.CalculateNFact.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\bin\Debug\07.CalculateNFact.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\bin\Debug\07.CalculateNFact.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\obj\Debug\07.CalculateNFact.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\obj\Debug\07.CalculateNFact.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\07.CalculateNFact\obj\Debug\07.CalculateNFact.pdb

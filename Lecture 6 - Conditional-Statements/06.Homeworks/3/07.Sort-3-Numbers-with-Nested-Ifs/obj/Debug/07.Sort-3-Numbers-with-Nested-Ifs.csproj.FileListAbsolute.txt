@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\06.Homeworks\3\07.Sort-3-Numbers-with-Nested-Ifs\bin\Debug\07.Sort-3-Numbers-with-Nested-Ifs.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\3\07.Sort-3-Numbers-with-Nested-Ifs\bin\Debug\07.Sort-3-Numbers-with-Nested-Ifs.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\07.Sort-3-Numbers-with-Nested-Ifs\bin\Debug\07.Sort-3-Numbers-with-Nested-Ifs.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\3\07.Sort-3-Numbers-with-Nested-Ifs\obj\Debug\07.Sort-3-Numbers-with-Nested-Ifs.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\07.Sort-3-Numbers-with-Nested-Ifs\obj\Debug\07.Sort-3-Numbers-with-Nested-Ifs.pdb

@@ -1,0 +1,8 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\MinMaxSumAverageOfNumbers\obj\x86\Debug\MinMaxSumAverageOfNumbers.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\MinMaxSumAverageOfNumbers\obj\x86\Debug\MinMaxSumAverageOfNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\MinMaxSumAverageOfNumbers\obj\x86\Debug\MinMaxSumAverageOfNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\MinMaxSumAverageOfNumbers\obj\x86\Debug\MinMaxSumAverageOfNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\MinMaxSumAverageOfNumbers\bin\Debug\MinMaxSumAverageOfNumbers.pdb

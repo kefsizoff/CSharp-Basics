@@ -1,0 +1,8 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\18OddEvenSum\bin\Debug\18OddEvenSum.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\18OddEvenSum\bin\Debug\18OddEvenSum.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\18OddEvenSum\bin\Debug\18OddEvenSum.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\18OddEvenSum\obj\Debug\18OddEvenSum.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\18OddEvenSum\obj\Debug\18OddEvenSum.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\18OddEvenSum\bin\Debug\18OddEvenSum.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\18OddEvenSum\obj\Debug\18OddEvenSum.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\18OddEvenSum\obj\Debug\18OddEvenSum.pdb

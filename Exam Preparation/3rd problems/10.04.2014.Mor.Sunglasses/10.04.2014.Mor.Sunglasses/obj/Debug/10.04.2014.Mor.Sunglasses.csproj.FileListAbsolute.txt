@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Mor.Sunglasses\10.04.2014.Mor.Sunglasses\bin\Debug\10.04.2014.Mor.Sunglasses.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Mor.Sunglasses\10.04.2014.Mor.Sunglasses\bin\Debug\10.04.2014.Mor.Sunglasses.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Mor.Sunglasses\10.04.2014.Mor.Sunglasses\bin\Debug\10.04.2014.Mor.Sunglasses.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Mor.Sunglasses\10.04.2014.Mor.Sunglasses\obj\Debug\10.04.2014.Mor.Sunglasses.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Mor.Sunglasses\10.04.2014.Mor.Sunglasses\obj\Debug\10.04.2014.Mor.Sunglasses.pdb

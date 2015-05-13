@@ -1,0 +1,10 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\01. NumbersFromOneToN.csprojResolveAssemblyReference.cache
+C:\Users\Zlatko\Desktop\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\NumbersFromOneToN.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\NumbersFromOneToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\NumbersFromOneToN.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\NumbersFromOneToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\NumbersFromOneToN\obj\x86\Debug\01. NumbersFromOneToN.csprojResolveAssemblyReference.cache

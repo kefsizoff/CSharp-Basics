@@ -1,0 +1,10 @@
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\2.MethodPrimeCheck\bin\Debug\2.MethodPrimeCheck.exe
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\2.MethodPrimeCheck\bin\Debug\2.MethodPrimeCheck.pdb
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.csprojResolveAssemblyReference.cache
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.exe
+c:\users\yanana\documents\homwworks\AdvancedTopicsTwo\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\2.MethodPrimeCheck\bin\Debug\2.MethodPrimeCheck.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\2.MethodPrimeCheck\bin\Debug\2.MethodPrimeCheck.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 9 - Advanced Topics 2\Homework\3\2.MethodPrimeCheck\obj\Debug\2.MethodPrimeCheck.csprojResolveAssemblyReference.cache

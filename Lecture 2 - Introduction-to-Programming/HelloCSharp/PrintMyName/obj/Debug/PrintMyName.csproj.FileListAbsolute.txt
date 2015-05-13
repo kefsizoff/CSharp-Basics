@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 2 - Introduction-to-Programming\HelloCSharp\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache

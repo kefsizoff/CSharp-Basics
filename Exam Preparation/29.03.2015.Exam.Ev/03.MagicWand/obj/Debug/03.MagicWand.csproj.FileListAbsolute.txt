@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\bin\Debug\03.MagicWand.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\obj\Debug\03.MagicWand.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\obj\Debug\03.MagicWand.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\bin\Debug\03.MagicWand.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\bin\Debug\03.MagicWand.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\03.MagicWand\obj\Debug\03.MagicWand.csprojResolveAssemblyReference.cache

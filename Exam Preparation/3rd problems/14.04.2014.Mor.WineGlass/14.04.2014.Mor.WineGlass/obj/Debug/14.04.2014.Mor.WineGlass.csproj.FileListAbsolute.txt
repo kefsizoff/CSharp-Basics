@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\bin\Debug\14.04.2014.Mor.WineGlass.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\obj\Debug\14.04.2014.Mor.WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\bin\Debug\14.04.2014.Mor.WineGlass.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\bin\Debug\14.04.2014.Mor.WineGlass.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\obj\Debug\14.04.2014.Mor.WineGlass.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Mor.WineGlass\14.04.2014.Mor.WineGlass\obj\Debug\14.04.2014.Mor.WineGlass.pdb

@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\DivideBy7And5\bin\Debug\DivideBy7And5.pdb
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\DivideBy7And5\bin\Debug\DivideBy7And5.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\2\DivideBy7And5\obj\Debug\DivideBy7And5.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\DivideBy7And5\obj\Debug\DivideBy7And5.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\DivideBy7And5\bin\Debug\DivideBy7And5.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\DivideBy7And5\bin\Debug\DivideBy7And5.pdb

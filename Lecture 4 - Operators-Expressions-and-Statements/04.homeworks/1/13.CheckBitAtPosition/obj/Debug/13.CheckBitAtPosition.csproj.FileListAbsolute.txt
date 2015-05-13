@@ -1,0 +1,10 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\13.CheckBitAtPosition\obj\Debug\13.CheckBitAtPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\13.CheckBitAtPosition\bin\Debug\13.CheckBitAtPosition.pdb

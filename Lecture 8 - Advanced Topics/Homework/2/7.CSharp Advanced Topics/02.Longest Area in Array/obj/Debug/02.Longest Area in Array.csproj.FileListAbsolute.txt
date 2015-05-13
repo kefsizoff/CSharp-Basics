@@ -1,0 +1,10 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\02.Longest Area in Array\obj\Debug\02.Longest Area in Array.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\02.Longest Area in Array\obj\Debug\02.Longest Area in Array.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\02.Longest Area in Array\obj\Debug\02.Longest Area in Array.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\02.Longest Area in Array\obj\Debug\02.Longest Area in Array.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\02.Longest Area in Array\bin\Debug\02.Longest Area in Array.pdb

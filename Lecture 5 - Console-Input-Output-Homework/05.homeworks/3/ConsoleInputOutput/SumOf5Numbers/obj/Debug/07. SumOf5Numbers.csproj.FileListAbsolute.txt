@@ -1,0 +1,10 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\SumOf5Numbers\obj\Debug\SumOf5Numbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\SumOf5Numbers\bin\Debug\SumOf5Numbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.csprojResolveAssemblyReference.cache
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\bin\Debug\06.Join Lists.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\06.Join Lists\obj\Debug\06.Join Lists.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\yanana\Documents\homwworks\loops\11.RandomNumberInRange\bin\Debug\11.RandomNumberInRange.exe
+C:\Users\yanana\Documents\homwworks\loops\11.RandomNumberInRange\bin\Debug\11.RandomNumberInRange.pdb
+C:\Users\yanana\Documents\homwworks\loops\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.exe
+C:\Users\yanana\Documents\homwworks\loops\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\11.RandomNumberInRange\bin\Debug\11.RandomNumberInRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\11.RandomNumberInRange\bin\Debug\11.RandomNumberInRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\11.RandomNumberInRange\obj\Debug\11.RandomNumberInRange.csprojResolveAssemblyReference.cache

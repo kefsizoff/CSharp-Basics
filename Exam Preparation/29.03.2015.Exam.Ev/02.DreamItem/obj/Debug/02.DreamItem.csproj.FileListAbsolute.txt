@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\bin\Debug\02.DreamItem.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\bin\Debug\02.DreamItem.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\bin\Debug\02.DreamItem.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\obj\Debug\02.DreamItem.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\obj\Debug\02.DreamItem.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\02.DreamItem\obj\Debug\02.DreamItem.pdb

@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

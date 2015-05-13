@@ -1,0 +1,10 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Atanas\Desktop\05.homeworks\3\ConsoleInputOutput\FormattingNumbers\bin\Debug\FormattingNumbers.pdb

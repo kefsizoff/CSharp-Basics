@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\bin\Debug\25.07.2014.Mor.PandaScotlandFlag.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\bin\Debug\25.07.2014.Mor.PandaScotlandFlag.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\bin\Debug\25.07.2014.Mor.PandaScotlandFlag.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\obj\Debug\25.07.2014.Mor.PandaScotlandFlag.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\obj\Debug\25.07.2014.Mor.PandaScotlandFlag.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\25.07.2014.Mor.PandaScotlandFlag\25.07.2014.Mor.PandaScotlandFlag\obj\Debug\25.07.2014.Mor.PandaScotlandFlag.pdb

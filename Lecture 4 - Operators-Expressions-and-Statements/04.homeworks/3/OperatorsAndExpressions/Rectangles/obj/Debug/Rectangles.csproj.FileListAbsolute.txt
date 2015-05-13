@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\Rectangles\bin\Debug\Rectangles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\bin\Debug\01.CountBeers.exe.config
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\bin\Debug\01.CountBeers.exe
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\bin\Debug\01.CountBeers.pdb
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\obj\Debug\01.CountBeers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\obj\Debug\01.CountBeers.exe
+C:\Users\Atanas\Desktop\MyHomework\MarchLab\01.CountBeers\obj\Debug\01.CountBeers.pdb

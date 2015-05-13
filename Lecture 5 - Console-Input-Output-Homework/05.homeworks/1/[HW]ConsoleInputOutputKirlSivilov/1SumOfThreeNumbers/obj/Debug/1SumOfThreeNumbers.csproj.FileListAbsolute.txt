@@ -1,0 +1,6 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\bin\Debug\1SumOfThreeNumbers.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\bin\Debug\1SumOfThreeNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\bin\Debug\1SumOfThreeNumbers.pdb
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\obj\Debug\1SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\obj\Debug\1SumOfThreeNumbers.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\1SumOfThreeNumbers\obj\Debug\1SumOfThreeNumbers.pdb

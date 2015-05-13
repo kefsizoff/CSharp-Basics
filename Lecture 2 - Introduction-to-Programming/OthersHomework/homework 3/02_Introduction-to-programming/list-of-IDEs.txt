@@ -1,0 +1,6 @@
+1. Eclipse - Second most popular IDE after Visual Studio. Written in Java (thus multiplatform) and supports a lot of programming languages. Higly customizable IDE (via plugins).
+2. NetBeans - Similar to Eclipse in most aspects (Java-based, multiplatform, customization). Not as popular as Eclipse is.
+3. Delphi - an IDE, developed by Borland at 1990's. Uses Object Pascal as a programming language and targets Windows OS. Not very popular nowadays.
+4. C++ Builder - similar to Delphi, but uses C++ as programming language.
+5. Code::Blocks - the lightest among the IDEs. Supports C, C++ and Fortran languages. Can be used with different compilers. 
+

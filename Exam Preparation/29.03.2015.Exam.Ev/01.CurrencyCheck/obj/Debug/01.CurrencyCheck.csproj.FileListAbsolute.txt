@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\01.CurrencyCheck\bin\Debug\01.CurrencyCheck.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\01.CurrencyCheck\bin\Debug\01.CurrencyCheck.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\01.CurrencyCheck\bin\Debug\01.CurrencyCheck.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\01.CurrencyCheck\obj\Debug\01.CurrencyCheck.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\01.CurrencyCheck\obj\Debug\01.CurrencyCheck.pdb

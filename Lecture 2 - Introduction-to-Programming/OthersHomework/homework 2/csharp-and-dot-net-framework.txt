@@ -1,0 +1,1 @@
+C# is a language. but .NET is a framework. Framework means it contained different applications. Some Name of the applications are Consule Application,Windows Applications, Web Applications. .NET Framework is supports morethan 20 languages. Its a main difference between .NET and other languages. Like C#,VB,..etc

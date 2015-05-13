@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\12.04.2014.Ev.Arrow\bin\Debug\12.04.2014.Ev.Arrow.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\12.04.2014.Ev.Arrow\bin\Debug\12.04.2014.Ev.Arrow.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\12.04.2014.Ev.Arrow\bin\Debug\12.04.2014.Ev.Arrow.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\12.04.2014.Ev.Arrow\obj\Debug\12.04.2014.Ev.Arrow.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\14.04.2014.Ev.Programmer DNA\12.04.2014.Ev.Arrow\obj\Debug\12.04.2014.Ev.Arrow.pdb

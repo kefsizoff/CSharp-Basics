@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

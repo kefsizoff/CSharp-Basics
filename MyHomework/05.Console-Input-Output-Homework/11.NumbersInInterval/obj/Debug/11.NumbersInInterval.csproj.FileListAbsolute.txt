@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\bin\Debug\11.NumbersInInterval.exe.config
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\obj\Debug\11.NumbersInInterval.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\bin\Debug\11.NumbersInInterval.exe
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\bin\Debug\11.NumbersInInterval.pdb
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\obj\Debug\11.NumbersInInterval.exe
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\11.NumbersInInterval\obj\Debug\11.NumbersInInterval.pdb

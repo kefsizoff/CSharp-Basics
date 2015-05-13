@@ -1,0 +1,11 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\obj\Debug\CalculateFactorialExpression.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\obj\Debug\CalculateFactorialExpression.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\obj\Debug\CalculateFactorialExpression.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\obj\Debug\CalculateFactorialExpression.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\CalculateFactorialExpression\obj\Debug\07. CalculateFactorialExpression.csprojResolveAssemblyReference.cache

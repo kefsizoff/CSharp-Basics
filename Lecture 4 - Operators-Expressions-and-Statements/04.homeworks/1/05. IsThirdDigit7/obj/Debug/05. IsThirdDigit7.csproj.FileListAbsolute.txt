@@ -1,0 +1,11 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\05. IsThirdDigit7\obj\Debug\_05.IsThirdDigit7.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\05. IsThirdDigit7\obj\Debug\_05.IsThirdDigit7.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\obj\Debug\_05.IsThirdDigit7.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\obj\Debug\_05.IsThirdDigit7.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\05. IsThirdDigit7\obj\Debug\05. IsThirdDigit7.csprojResolveAssemblyReference.cache

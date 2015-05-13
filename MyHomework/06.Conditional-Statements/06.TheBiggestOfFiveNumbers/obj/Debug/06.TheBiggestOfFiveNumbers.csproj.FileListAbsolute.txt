@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\MyHomework\06.Conditional-Statements\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache

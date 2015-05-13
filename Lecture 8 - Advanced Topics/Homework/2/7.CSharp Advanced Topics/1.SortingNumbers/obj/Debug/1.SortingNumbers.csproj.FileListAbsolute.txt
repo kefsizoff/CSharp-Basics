@@ -1,0 +1,6 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\bin\Debug\1.SortingNumbers.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\bin\Debug\1.SortingNumbers.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\bin\Debug\1.SortingNumbers.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\obj\Debug\1.SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\obj\Debug\1.SortingNumbers.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\1.SortingNumbers\obj\Debug\1.SortingNumbers.pdb

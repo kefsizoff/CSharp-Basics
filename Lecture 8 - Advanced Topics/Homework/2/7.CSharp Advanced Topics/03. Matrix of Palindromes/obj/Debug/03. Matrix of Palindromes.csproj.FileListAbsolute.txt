@@ -1,0 +1,9 @@
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe.config
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.pdb
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\obj\Debug\03. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.exe
+C:\Users\Milen\Documents\Visual Studio 2013\Projects\HomeWorks_SoftUni\CSharp Advanced Topics\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\03. Matrix of Palindromes\bin\Debug\_03.Matrix_of_Palindromes.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\2\7.CSharp Advanced Topics\03. Matrix of Palindromes\obj\Debug\_03.Matrix_of_Palindromes.pdb

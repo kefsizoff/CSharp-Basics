@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\14.PrintTheAsciiTable\bin\Debug\14.PrintTheAsciiTable.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\14.PrintTheAsciiTable\obj\Debug\14.PrintTheAsciiTable.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\14.PrintTheAsciiTable\obj\Debug\14.PrintTheAsciiTable.pdb

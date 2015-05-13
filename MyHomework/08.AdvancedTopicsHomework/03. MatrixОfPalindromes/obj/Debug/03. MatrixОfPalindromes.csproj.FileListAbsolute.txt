@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\bin\Debug\_03.MatrixОfPalindromes.exe.config
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\bin\Debug\_03.MatrixОfPalindromes.exe
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\bin\Debug\_03.MatrixОfPalindromes.pdb
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\obj\Debug\03. MatrixОfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\obj\Debug\_03.MatrixОfPalindromes.exe
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\03. MatrixОfPalindromes\obj\Debug\_03.MatrixОfPalindromes.pdb

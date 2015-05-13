@@ -1,0 +1,8 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomNumbersInGivenRange\bin\Debug\RandomNumbersInGivenRange.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\1\Loops-Homework\RandomNumbersInGivenRange\obj\Debug\RandomNumbersInGivenRange.pdb

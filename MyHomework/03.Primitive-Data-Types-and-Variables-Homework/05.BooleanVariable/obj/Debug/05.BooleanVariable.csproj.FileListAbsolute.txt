@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

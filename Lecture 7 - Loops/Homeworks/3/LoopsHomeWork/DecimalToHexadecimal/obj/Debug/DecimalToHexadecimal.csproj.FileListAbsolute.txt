@@ -1,0 +1,6 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

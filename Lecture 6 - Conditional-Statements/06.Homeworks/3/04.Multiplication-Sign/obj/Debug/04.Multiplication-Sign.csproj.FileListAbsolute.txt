@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\06.Homeworks\3\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\3\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\04.Multiplication-Sign\bin\Debug\04.Multiplication-Sign.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\3\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\04.Multiplication-Sign\obj\Debug\04.Multiplication-Sign.pdb

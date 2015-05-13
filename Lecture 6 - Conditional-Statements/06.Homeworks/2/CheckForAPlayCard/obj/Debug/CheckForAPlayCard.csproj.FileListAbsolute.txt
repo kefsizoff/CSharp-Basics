@@ -1,0 +1,1 @@
+E:\Softuni\6 Conditional statements\Homework solution\ConditionalStatements\CheckForAPlayCard\bin\Debug\CheckForAPlayCard.exe.config

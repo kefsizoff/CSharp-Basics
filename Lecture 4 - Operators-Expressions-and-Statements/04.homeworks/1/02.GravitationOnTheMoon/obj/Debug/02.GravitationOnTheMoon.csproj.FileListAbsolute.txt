@@ -1,0 +1,9 @@
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Learning things\SoftUni\levev zero january 2015\OperatorsAndExpressions\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Atanas\Desktop\04.homeworks\1\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\1\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Atanas\Desktop\04.homeworks\1\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

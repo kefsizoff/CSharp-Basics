@@ -1,0 +1,10 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb

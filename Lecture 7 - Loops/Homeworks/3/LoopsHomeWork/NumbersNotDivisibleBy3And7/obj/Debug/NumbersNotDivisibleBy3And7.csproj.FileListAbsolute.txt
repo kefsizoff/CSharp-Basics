@@ -1,0 +1,8 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb

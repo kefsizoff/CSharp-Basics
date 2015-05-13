@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb
+C:\Users\Atanas\Desktop\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+C:\Users\Atanas\Desktop\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+C:\Users\Atanas\Desktop\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

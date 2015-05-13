@@ -1,0 +1,12 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\bin\Debug\06.JoinList.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\3\08.AdvancedTopics\06.JoinList\obj\Debug\06.JoinList.csprojResolveAssemblyReference.cache

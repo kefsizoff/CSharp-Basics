@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\AgeAfter10Years\obj\Debug\15_AgeAfter10Years.csprojResolveAssemblyReference.cache

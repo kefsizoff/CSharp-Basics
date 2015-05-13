@@ -1,0 +1,5 @@
+C:\Users\yanana\Documents\homwworks\loops\5. CalculationsWithFactorail\bin\Debug\_5.CalculationsWithFactorail.exe
+C:\Users\yanana\Documents\homwworks\loops\5. CalculationsWithFactorail\bin\Debug\_5.CalculationsWithFactorail.pdb
+C:\Users\yanana\Documents\homwworks\loops\5. CalculationsWithFactorail\obj\Debug\5. CalculationsWithFactorail.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\5. CalculationsWithFactorail\obj\Debug\_5.CalculationsWithFactorail.exe
+C:\Users\yanana\Documents\homwworks\loops\5. CalculationsWithFactorail\obj\Debug\_5.CalculationsWithFactorail.pdb

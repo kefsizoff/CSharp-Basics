@@ -1,0 +1,8 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\07.TheBiggestOfFiveNumbers\bin\Debug\07.TheBiggestOfFiveNumbers.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\07.TheBiggestOfFiveNumbers\bin\Debug\07.TheBiggestOfFiveNumbers.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\07.TheBiggestOfFiveNumbers\bin\Debug\07.TheBiggestOfFiveNumbers.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\07.TheBiggestOfFiveNumbers\obj\Debug\07.TheBiggestOfFiveNumbers.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\07.TheBiggestOfFiveNumbers\obj\Debug\07.TheBiggestOfFiveNumbers.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\07.TheBiggestOfFiveNumbers\bin\Debug\07.TheBiggestOfFiveNumbers.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\07.TheBiggestOfFiveNumbers\obj\Debug\07.TheBiggestOfFiveNumbers.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\07.TheBiggestOfFiveNumbers\obj\Debug\07.TheBiggestOfFiveNumbers.pdb

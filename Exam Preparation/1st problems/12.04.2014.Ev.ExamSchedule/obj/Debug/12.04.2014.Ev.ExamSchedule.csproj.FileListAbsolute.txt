@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\bin\Debug\12.04.2014.Ev.ExamSchedule.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\bin\Debug\12.04.2014.Ev.ExamSchedule.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\bin\Debug\12.04.2014.Ev.ExamSchedule.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\obj\Debug\12.04.2014.Ev.ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\obj\Debug\12.04.2014.Ev.ExamSchedule.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\12.04.2014.Ev.ExamSchedule\obj\Debug\12.04.2014.Ev.ExamSchedule.pdb

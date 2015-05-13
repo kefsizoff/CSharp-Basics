@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ModifyABitAtGivenPosition\obj\Debug\ModifyABitAtGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\ModifyABitAtGivenPosition\bin\Debug\ModifyABitAtGivenPosition.pdb

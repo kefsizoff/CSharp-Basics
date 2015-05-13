@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.pdb
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\ModifyBitGivenPosition\obj\Debug\ModifyBitGivenPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\3.Operators Expressions and Statements\ModifyBitGivenPosition\obj\Debug\ModifyBitGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\2\ModifyBitGivenPosition\obj\Debug\ModifyBitGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\ModifyBitGivenPosition\obj\Debug\ModifyBitGivenPosition.pdb
+C:\Users\Atanas\Desktop\04.homeworks\2\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.exe
+C:\Users\Atanas\Desktop\04.homeworks\2\ModifyBitGivenPosition\bin\Debug\ModifyBitGivenPosition.pdb

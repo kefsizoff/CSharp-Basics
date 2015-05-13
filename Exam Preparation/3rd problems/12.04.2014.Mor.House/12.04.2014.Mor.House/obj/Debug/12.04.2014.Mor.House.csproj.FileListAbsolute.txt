@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\bin\Debug\12.04.2014.Mor.House.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\bin\Debug\12.04.2014.Mor.House.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\bin\Debug\12.04.2014.Mor.House.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\obj\Debug\12.04.2014.Mor.House.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\obj\Debug\12.04.2014.Mor.House.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\12.04.2014.Mor.House\12.04.2014.Mor.House\obj\Debug\12.04.2014.Mor.House.csprojResolveAssemblyReference.cache

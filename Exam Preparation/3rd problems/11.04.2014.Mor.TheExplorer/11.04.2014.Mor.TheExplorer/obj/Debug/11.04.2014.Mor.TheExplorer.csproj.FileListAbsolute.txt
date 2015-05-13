@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\bin\Debug\11.04.2014.Mor.TheExplorer.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\bin\Debug\11.04.2014.Mor.TheExplorer.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\bin\Debug\11.04.2014.Mor.TheExplorer.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\obj\Debug\11.04.2014.Mor.TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\obj\Debug\11.04.2014.Mor.TheExplorer.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\11.04.2014.Mor.TheExplorer\11.04.2014.Mor.TheExplorer\obj\Debug\11.04.2014.Mor.TheExplorer.pdb

@@ -1,0 +1,8 @@
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.exe.config
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.exe
+C:\Users\Kiko\Desktop\DomashniCSharp\[HW]ConsoleInputOutput\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.exe.config
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\3CirclePerimeterAndArea\obj\Debug\3CirclePerimeterAndArea.pdb
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.exe
+C:\Users\Atanas\Desktop\05.homeworks\1\[HW]ConsoleInputOutputKirlSivilov\3CirclePerimeterAndArea\bin\Debug\3CirclePerimeterAndArea.pdb

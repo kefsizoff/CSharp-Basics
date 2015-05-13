@@ -1,0 +1,8 @@
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+D:\Study\SOFT UNI 2015\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Atanas\Desktop\05.homeworks\2\04.ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb

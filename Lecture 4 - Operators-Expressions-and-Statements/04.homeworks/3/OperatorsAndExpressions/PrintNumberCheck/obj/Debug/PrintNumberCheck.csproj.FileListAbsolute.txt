@@ -1,0 +1,10 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PrintNumberCheck\obj\Debug\PrintNumberCheck.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\PrintNumberCheck\obj\Debug\PrintNumberCheck.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PrintNumberCheck\obj\Debug\PrintNumberCheck.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PrintNumberCheck\obj\Debug\PrintNumberCheck.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\PrintNumberCheck\bin\Debug\PrintNumberCheck.pdb

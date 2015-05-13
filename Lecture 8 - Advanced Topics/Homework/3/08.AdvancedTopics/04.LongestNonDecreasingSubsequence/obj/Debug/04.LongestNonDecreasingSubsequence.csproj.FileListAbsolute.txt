@@ -1,0 +1,1 @@
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\softuni.homework\08.AdvancedTopics\08.AdvancedTopics\04.LongestNonDecreasingSubsequence\bin\Debug\04.LongestNonDecreasingSubsequence.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\bin\Debug\01.SortingNumbers.exe.config
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\bin\Debug\01.SortingNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\bin\Debug\01.SortingNumbers.pdb
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\obj\Debug\01.SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\obj\Debug\01.SortingNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\08.AdvancedTopicsHomework\01.SortingNumbers\obj\Debug\01.SortingNumbers.pdb

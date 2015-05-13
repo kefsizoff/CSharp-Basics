@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintDeckOf52Cards/PrintDeckOf52Cards.cs">
+    <Files>
+      <File FileName="NumbersFromOneToN/NumbersFromOneToN.cs" Line="6" Column="24" />
+      <File FileName="NumbersNotDivisibleBy3And7/NumbersNotDivisibleBy3And7.cs" Line="13" Column="23" />
+      <File FileName="MinMaxSumAverageOfNumbers/MinMaxSumAverageOfNumbers.cs" Line="5" Column="3" />
+      <File FileName="PrintDeckOf52Cards/PrintDeckOf52Cards.cs" Line="19" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

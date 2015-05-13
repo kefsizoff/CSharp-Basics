@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\bin\Debug\05.MultiplicationSign.exe.config
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\bin\Debug\05.MultiplicationSign.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\bin\Debug\05.MultiplicationSign.pdb
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\obj\Debug\05.MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\obj\Debug\05.MultiplicationSign.exe
+C:\Users\Alex\Desktop\New_Conditional _satements\Conditional Statements\05.MultiplicationSign\obj\Debug\05.MultiplicationSign.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\1\05.MultiplicationSign\bin\Debug\05.MultiplicationSign.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\1\05.MultiplicationSign\obj\Debug\05.MultiplicationSign.exe
+C:\Users\Atanas\Desktop\06.Homeworks\1\05.MultiplicationSign\obj\Debug\05.MultiplicationSign.pdb

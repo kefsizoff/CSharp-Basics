@@ -1,0 +1,5 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe.config
+C:\Users\Zlatko\Desktop\Loops-Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\HexadecimalToDecimalNumber\bin\Debug\HexadecimalToDecimalNumber.pdb
+C:\Users\Zlatko\Desktop\Loops-Homework\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.exe
+C:\Users\Zlatko\Desktop\Loops-Homework\HexadecimalToDecimalNumber\obj\Debug\HexadecimalToDecimalNumber.pdb

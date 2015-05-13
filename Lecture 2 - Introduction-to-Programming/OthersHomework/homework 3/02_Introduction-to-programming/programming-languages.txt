@@ -1,0 +1,7 @@
+Most popular programming languages
+
+1. Java - object-oriented (OO) language. Multiplatform - source is compiled to bytecode and run on Java virtual machine. Developed at at 1990's by Sun Microsystems (later merged by Oracle). This language is closest to C# because of OO, keywords, Java bytecode is like C# assembly, JVM - like CLR.
+2. C - not objected oriented, but procedural programming language. Source is compiled to binaries (executables, static or dynamic libraries).Compilers for every platform. Developed at 1970's at AT&T. Usage: OS, embedded Similarity to C#: most of the keywords are the same. Faster execution of resulting binaries than C# assemblies.
+3. C++ - ancestor of C, but OO language. Source is compiled to binaries (executables, static or dynamic libraries).Compilers for every platform. Similar to C# in OO, keywords. More difficult than C# for learning and code maintenance. Faster execution of resulting binaries than C# assemblies.
+4. Python - object-oriented. Interpreted language - code is neither compiled to binary nor to assembly/bytecode; instead, it is interpreted at runtime (thus slower). Its syntax allows programmers to express concepts in fewer lines of code than most of the languages. Similar to C# in keywords. 
+5. JavaScript - used for client-side scripting in web-browsers. Used for form validation, asynchronous communication (as part of AJAX technology) etc. Can be used in OO context. Similar to C# in keywords and OO.

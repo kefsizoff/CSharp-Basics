@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\bin\Debug\10.04.2014.Ev.Eclipse.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\bin\Debug\10.04.2014.Ev.Eclipse.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\bin\Debug\10.04.2014.Ev.Eclipse.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\obj\Debug\10.04.2014.Ev.Eclipse.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\obj\Debug\10.04.2014.Ev.Eclipse.exe
+C:\Users\Atanas\Desktop\Exam Preparation\3rd problems\10.04.2014.Ev.Eclipse\10.04.2014.Ev.Eclipse\obj\Debug\10.04.2014.Ev.Eclipse.pdb

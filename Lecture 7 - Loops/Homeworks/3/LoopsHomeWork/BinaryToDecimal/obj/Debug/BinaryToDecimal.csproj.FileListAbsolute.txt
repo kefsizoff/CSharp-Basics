@@ -1,0 +1,6 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

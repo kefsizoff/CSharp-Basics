@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\bin\Debug\_10._04._2014.Morning.HalfSum.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\bin\Debug\_10._04._2014.Morning.HalfSum.exe
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\bin\Debug\_10._04._2014.Morning.HalfSum.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\obj\Debug\10.04.2014.Morning.HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\obj\Debug\_10._04._2014.Morning.HalfSum.exe
+C:\Users\Atanas\Desktop\Exam Preparation\2nd problems\2nd problems\10.04.2014.Morning.HalfSum\obj\Debug\_10._04._2014.Morning.HalfSum.pdb

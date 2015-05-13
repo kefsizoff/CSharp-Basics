@@ -1,0 +1,8 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\BitExchange\obj\Debug\BitExchange.pdb

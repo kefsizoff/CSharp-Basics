@@ -1,0 +1,1 @@
+C:\Users\Zlatko\Desktop\Loops-Homework\CalculateFactorialExpression\bin\Debug\CalculateFactorialExpression.exe.config

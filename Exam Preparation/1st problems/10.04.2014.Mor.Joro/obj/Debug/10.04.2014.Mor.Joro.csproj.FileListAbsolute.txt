@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\bin\Debug\10.04.2014.Mor.Joro.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\bin\Debug\10.04.2014.Mor.Joro.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\bin\Debug\10.04.2014.Mor.Joro.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\obj\Debug\10.04.2014.Mor.Joro.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\obj\Debug\10.04.2014.Mor.Joro.exe
+C:\Users\Atanas\Desktop\Exam Preparation\1st problems\10.04.2014.Mor.Joro\obj\Debug\10.04.2014.Mor.Joro.pdb

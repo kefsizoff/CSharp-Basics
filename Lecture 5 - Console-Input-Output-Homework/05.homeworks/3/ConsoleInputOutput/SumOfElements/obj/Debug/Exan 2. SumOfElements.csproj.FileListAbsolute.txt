@@ -1,0 +1,5 @@
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe.config
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOfElements\bin\Debug\SumOfElements.pdb
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.exe
+D:\Dropbox\html\softuni\HW 5\ConsoleInputOutput\SumOfElements\obj\Debug\SumOfElements.pdb

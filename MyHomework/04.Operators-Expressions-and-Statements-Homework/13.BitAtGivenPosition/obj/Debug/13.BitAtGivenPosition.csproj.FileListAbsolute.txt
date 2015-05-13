@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\13.BitAtGivenPosition\bin\Debug\13.BitAtGivenPosition.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\13.BitAtGivenPosition\bin\Debug\13.BitAtGivenPosition.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\13.BitAtGivenPosition\bin\Debug\13.BitAtGivenPosition.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\13.BitAtGivenPosition\obj\Debug\13.BitAtGivenPosition.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\13.BitAtGivenPosition\obj\Debug\13.BitAtGivenPosition.pdb

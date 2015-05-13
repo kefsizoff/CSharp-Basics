@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\bin\Debug\05.PointClass.exe.config
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\bin\Debug\05.PointClass.exe
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\bin\Debug\05.PointClass.pdb
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\obj\Debug\05.PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\obj\Debug\05.PointClass.exe
+C:\Users\Atanas\Desktop\MyHomework\09.CSharpAdvancedTopicsHomework\05.PointClass\obj\Debug\05.PointClass.pdb

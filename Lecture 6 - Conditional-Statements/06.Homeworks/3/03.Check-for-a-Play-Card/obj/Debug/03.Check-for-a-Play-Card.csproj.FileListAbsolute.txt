@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\06.Homeworks\3\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.exe.config
+C:\Users\Atanas\Desktop\06.Homeworks\3\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\03.Check-for-a-Play-Card\bin\Debug\03.Check-for-a-Play-Card.pdb
+C:\Users\Atanas\Desktop\06.Homeworks\3\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.exe
+C:\Users\Atanas\Desktop\06.Homeworks\3\03.Check-for-a-Play-Card\obj\Debug\03.Check-for-a-Play-Card.pdb

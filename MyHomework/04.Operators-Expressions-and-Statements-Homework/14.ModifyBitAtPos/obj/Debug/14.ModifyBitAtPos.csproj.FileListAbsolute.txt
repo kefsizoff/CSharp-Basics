@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\bin\Debug\14.ModifyBitAtPos.exe.config
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\bin\Debug\14.ModifyBitAtPos.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\bin\Debug\14.ModifyBitAtPos.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\obj\Debug\14.ModifyBitAtPos.exe
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\obj\Debug\14.ModifyBitAtPos.pdb
+C:\Users\Atanas\Desktop\Homework\4.Operators-Expressions-and-Statements-Homework\14.ModifyBitAtPos\obj\Debug\14.ModifyBitAtPos.csprojResolveAssemblyReference.cache

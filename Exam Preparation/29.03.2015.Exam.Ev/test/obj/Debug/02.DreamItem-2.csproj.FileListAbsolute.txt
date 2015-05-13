@@ -1,0 +1,3 @@
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\test\bin\Debug\test.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\test\obj\Debug\test.exe
+C:\Users\Atanas\Desktop\Exam Preparation\29.03.2015.Exam.Ev\test\obj\Debug\test.pdb

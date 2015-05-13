@@ -1,0 +1,6 @@
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\work\SoftUni\Homework\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Atanas\Desktop\Homework\homework 3\02_Introduction-to-programming\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb

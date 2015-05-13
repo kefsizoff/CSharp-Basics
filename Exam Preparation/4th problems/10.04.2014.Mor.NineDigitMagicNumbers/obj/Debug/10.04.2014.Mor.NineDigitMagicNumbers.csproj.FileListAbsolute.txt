@@ -1,0 +1,12 @@
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe.config
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.pdb
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe
+C:\Users\Atanas\Desktop\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\bin\Debug\10.04.2014.Mor.NineDigitMagicNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Exam Preparation\4th problems\10.04.2014.Mor.NineDigitMagicNumbers\obj\Debug\10.04.2014.Mor.NineDigitMagicNumbers.csprojResolveAssemblyReference.cache

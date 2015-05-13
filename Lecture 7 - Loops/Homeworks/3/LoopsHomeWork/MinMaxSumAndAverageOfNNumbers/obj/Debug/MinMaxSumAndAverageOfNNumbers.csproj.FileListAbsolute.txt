@@ -1,0 +1,8 @@
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Andriano\Desktop\Programs\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\bin\Debug\MinMaxSumAndAverageOfNNumbers.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\3\LoopsHomeWork\MinMaxSumAndAverageOfNNumbers\obj\Debug\MinMaxSumAndAverageOfNNumbers.pdb

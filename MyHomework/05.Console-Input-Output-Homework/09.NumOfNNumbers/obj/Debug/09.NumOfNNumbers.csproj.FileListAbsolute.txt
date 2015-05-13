@@ -1,0 +1,5 @@
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\09.NumOfNNumbers\bin\Debug\09.NumOfNNumbers.exe.config
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\09.NumOfNNumbers\bin\Debug\09.NumOfNNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\09.NumOfNNumbers\bin\Debug\09.NumOfNNumbers.pdb
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\09.NumOfNNumbers\obj\Debug\09.NumOfNNumbers.exe
+C:\Users\Atanas\Desktop\MyHomework\05.Console-Input-Output-Homework\09.NumOfNNumbers\obj\Debug\09.NumOfNNumbers.pdb

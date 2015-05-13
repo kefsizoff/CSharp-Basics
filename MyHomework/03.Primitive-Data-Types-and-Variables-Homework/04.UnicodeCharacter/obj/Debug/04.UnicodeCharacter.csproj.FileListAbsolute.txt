@@ -1,0 +1,9 @@
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb
+C:\Users\Atanas\Desktop\Homework\Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\03.Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Atanas\Desktop\MyHomework\03.Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Atanas\Desktop\MyHomework\03.Primitive-Data-Types-and-Variables-Homework\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

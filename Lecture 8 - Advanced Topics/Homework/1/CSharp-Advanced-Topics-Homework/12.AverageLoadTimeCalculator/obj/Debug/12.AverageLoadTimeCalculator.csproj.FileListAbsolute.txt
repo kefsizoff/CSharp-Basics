@@ -1,0 +1,12 @@
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.exe.config
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.pdb
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.exe
+C:\Users\kiret0\Documents\Visual Studio 2013\Projects\CSharp-Basics-Alpha-Homework\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.exe.config
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\bin\Debug\12.AverageLoadTimeCalculator.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 8 - Advanced Topics\Homework\1\CSharp-Advanced-Topics-Homework\12.AverageLoadTimeCalculator\obj\Debug\12.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache

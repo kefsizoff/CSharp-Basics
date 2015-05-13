@@ -1,0 +1,11 @@
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe.config
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.pdb
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.exe
+C:\Users\Andriano\Desktop\Programs\OperatorsAndExpressions\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe.config
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.pdb
+C:\Users\Atanas\Desktop\04.homeworks\3\OperatorsAndExpressions\OddOrEvenInteger\obj\Debug\OddOrEvenInteger.csprojResolveAssemblyReference.cache

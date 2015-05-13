@@ -1,0 +1,6 @@
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\bin\Debug\11.RadndomNumbersInGivenRange.exe.config
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\bin\Debug\11.RadndomNumbersInGivenRange.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\bin\Debug\11.RadndomNumbersInGivenRange.pdb
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\obj\Debug\11.RadndomNumbersInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\obj\Debug\11.RadndomNumbersInGivenRange.exe
+C:\Users\Atanas\Desktop\MyHomework\07.LoopsHomework\11.RadndomNumbersInGivenRange\obj\Debug\11.RadndomNumbersInGivenRange.pdb

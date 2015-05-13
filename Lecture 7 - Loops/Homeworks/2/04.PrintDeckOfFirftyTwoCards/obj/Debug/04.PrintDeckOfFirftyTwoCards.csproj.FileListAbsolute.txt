@@ -1,0 +1,7 @@
+C:\Users\yanana\Documents\homwworks\loops\04.PrintDeckOfFirftyTwoCards\bin\Debug\04.PrintDeckOfFirftyTwoCards.exe
+C:\Users\yanana\Documents\homwworks\loops\04.PrintDeckOfFirftyTwoCards\bin\Debug\04.PrintDeckOfFirftyTwoCards.pdb
+C:\Users\yanana\Documents\homwworks\loops\04.PrintDeckOfFirftyTwoCards\obj\Debug\04.PrintDeckOfFirftyTwoCards.csprojResolveAssemblyReference.cache
+C:\Users\yanana\Documents\homwworks\loops\04.PrintDeckOfFirftyTwoCards\obj\Debug\04.PrintDeckOfFirftyTwoCards.exe
+C:\Users\yanana\Documents\homwworks\loops\04.PrintDeckOfFirftyTwoCards\obj\Debug\04.PrintDeckOfFirftyTwoCards.pdb
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\04.PrintDeckOfFirftyTwoCards\obj\Debug\04.PrintDeckOfFirftyTwoCards.exe
+C:\Users\Atanas\Desktop\SoftUni\Lecture 7 - Loops\Homeworks\2\04.PrintDeckOfFirftyTwoCards\obj\Debug\04.PrintDeckOfFirftyTwoCards.pdb
